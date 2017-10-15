@@ -17,9 +17,6 @@
 	* 	Setjið tengil í README.md skrána sem vísar á vefinn eins og hér er sýnt.
 		*	https://vefhonnun.github.io/VSH2_GitHub/
 
-*	**Einstaklingsverkefni**
-	*	Verkefnið er tekið fyrir í TÆK áfanganum en verklýsingin er hér í möppu. Það á að skila því á ÞINN GitHub reikning.
-
 *	**Lesefni**
 	*	Lesefni til stuðnings verkefninu er hér í möppu.
 
