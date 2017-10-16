@@ -15,7 +15,7 @@
 	*	Hlaðið _(push)_ inn möppunni í GitHub geymsluna ykkar
 	*	Farið eftir leiðbeiningum hér í lesefni _"Vefsíða tengd GitHub geymlsu.pdf"_ og tengið vefsíðuna við GitHub geymsluna.
 	* 	Setjið tengil í README.md skrána sem vísar á vefinn eins og hér er sýnt.
-		*	https://vefhonnun.github.io/VSH2_GitHub/
+		*	https://vefhonnun.github.io/VEF2-GitHub-hopverkefni/
 
 *	**Lesefni**
 	*	Lesefni til stuðnings verkefninu er hér í möppu.
