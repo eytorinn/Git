@@ -1,5 +1,5 @@
 
-# VSH2 GitHub hópverkefni 
+# VEF2 GitHub hópverkefni 
 
 ## verklýsing:
 
