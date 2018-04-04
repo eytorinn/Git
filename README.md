@@ -1,5 +1,5 @@
 
-# VEF2 GitHub hópverkefni 
+# Git æfingaverkefni 
 
 ## verklýsing:
 
