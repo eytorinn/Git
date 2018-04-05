@@ -1,7 +1,8 @@
 
 # Git æfingaverkefni 
 
-> Öll vinna við hópverkefnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið
+> Öll vinna við hópverkefnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið.
+> Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_).
 
 *	**GitHub** - Afritun _(Fork & Clone)_
 	*	Afritaðu þessa geymslu (_e. repository_) með <br> goggunaraðferðinni _**„Fork Repository“**_  á eigin GitHub reikning (_GitHub Account_) 
