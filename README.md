@@ -5,15 +5,14 @@
 > Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_).
 
 *	**GitHub** - Afritun _(Fork & Clone)_
-	*	Afritaðu þessa geymslu (_e. repository_) með <br> goggunaraðferðinni _**„Fork Repository“**_  á eigin GitHub reikning (_GitHub Account_) 
-	*	Afritaðu geymsluna yfir á tölvuna þína með _**„Git clone“**_.
+	*	Eftir að hafa stofnað hóp þá afritar **einn** úr hópnum þessa geymslu (_e. repository_) með <br> goggunaraðferðinni _**„Fork Repository“**_  á eigin GitHub reikning (_GitHub Account_). Síðan deilir hann aðgangi að geymslunni, [sjá nánar í lesefni/Samstarf](Lesefni/Samstarf%20á%20GitHub.pdf).
 *	**Sameiginleg geymsla _(repository)_**
-	*	2 nemendur deila aðgangi að geymslunni sem var gogguð af GitHub.com/vefhonnun, [sjá nánar í lesefni/Samstarf](Lesefni/Samstarf%20á%20GitHub.pdf)
+	* Geymslan er síðan afrituð með _**„Git clone“**_ yfir á tölvur hópsins þannig að allir eru með eigin útgáfu af henni.
+
 *	[Í möppunni "docs"](docs/) er vefsíða og stílsíða. Nemendur eiga að búa til fjórar greinar **_(branch)_** þar sem vefsíðan er með nýju stílsniði á hverri grein. 
 *	Farið eftir leiðbeiningum hér í ["Vefsíða tengd GitHub geymlsu.pdf"](Lesefni/Vefsíða%20tengd%20GitHub%20geymslu.pdf) og tengið vefsíðuna í docs möppunni við GitHub geymsluna.
 * 	Setjið tengil í README.md skrána sem vísar á vefinn eins og hér er sýnt.
 	https://vefhonnun.github.io/Git-aefingaverkefni/
-
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir/Wiki](https://github.com/vefhonnun/Git-aefingaverkefni/wiki)
 
