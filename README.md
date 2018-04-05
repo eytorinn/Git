@@ -9,9 +9,9 @@
 *	**Sameiginleg geymsla _(repository)_**
 	*	2 nemendur deila aðgangi að geymslunni sem var gogguð af GitHub.com/vefhonnun, [sjá nánar í lesefni/Samstarf](Lesefni/Samstarf%20á%20GitHub.pdf)
 *	[Í möppunni "docs"](docs/) er vefsíða og stílsíða. Nemendur eiga að búa til fjórar greinar **_(branch)_** þar sem vefsíðan er með nýju stílsniði á hverri grein. 
-*	Farið eftir leiðbeiningum hér í [lesefni _"Vefsíða tengd GitHub geymlsu.pdf"](Lesefni/Vefsíða%20tengd%20GitHub%20geymslu.pdf)_ og tengið vefsíðuna í docs möppunni við GitHub geymsluna.
+*	Farið eftir leiðbeiningum hér í ["Vefsíða tengd GitHub geymlsu.pdf"](Lesefni/Vefsíða%20tengd%20GitHub%20geymslu.pdf) og tengið vefsíðuna í docs möppunni við GitHub geymsluna.
 * 	Setjið tengil í README.md skrána sem vísar á vefinn eins og hér er sýnt.
-	*	https://vefhonnun.github.io/Git-aefingaverkefni/
+	https://vefhonnun.github.io/Git-aefingaverkefni/
 
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 
