@@ -14,6 +14,7 @@
 	https://vefhonnun.github.io/Git-aefingaverkefni/
 
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
+*	[Bjargir/Wiki](https://github.com/vefhonnun/Git-aefingaverkefni/wiki)
 
 ### Námsmat:
 *	Fjórar greinar af vefsíðu unnar af báðum nemendum (2x2). 
