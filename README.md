@@ -4,9 +4,9 @@
 > Öll vinna við hópverkefnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið.
 > Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_).
 
-*	**GitHub** - Afritun _(Fork & Clone)_
+*	**GitHub** - Afritun _(Fork)_
 	*	Eftir að hafa stofnað hóp þá afritar **einn** úr hópnum þessa geymslu (_e. repository_) með <br> goggunaraðferðinni _**„Fork Repository“**_  á eigin GitHub reikning (_GitHub Account_). Síðan deilir hann aðgangi að geymslunni, [sjá nánar í lesefni/Samstarf](Lesefni/Samstarf%20á%20GitHub.pdf).
-*	**Sameiginleg geymsla _(repository)_**
+*	**Sameiginleg geymsla _(repository)_** 
 	* Geymslan er síðan afrituð með _**„Git clone“**_ yfir á tölvur hópsins þannig að allir eru með eigin útgáfu af henni.
 
 *	[Í möppunni "docs"](docs/) er vefsíða og stílsíða. Nemendur eiga að búa til fjórar greinar **_(branch)_** þar sem vefsíðan er með nýju stílsniði á hverri grein. 
