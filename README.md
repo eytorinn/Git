@@ -4,7 +4,7 @@
 > Öll vinna við hópverkefnið á að vera vaktað með GIT útgáfustjórnun og munið að skrá ($ git commit -m 'lýsing...') reglulega í umsjónarkerfið.
 > Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_).
 
-### Afritun **„Fork“**_ og speglun **„Git clone“**
+### Afritun **„Fork“** og speglun **„Git clone“**
 Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) er gogguð „Fork“ þá færðu _nýtt eintak_ af geymslunni sem tilheyrir þínum reikningi. Þú getur gert hvað sem er við innihald geymslunnar og það hefur engin áhrif á upprunalega geymslu. Hinsvegar ef þú villt láta höfund geymslunnar vita hvað þú ert að bralla, þá getur þú sent honum skilaboð í gegnum skilaboðakerfið **„Pull request“**. Þar getur höfundurinn borið saman kóðann sem þú ert með við upprunalegan kóða og ef þín lausn er betri þá er hún sett saman við upprunalegan kóða með skipuninni **„Merge request“**.
 
 Speglun **„Git clone“** er notuð til að fá eintak af geymslunni yfir á þína tölvu. Ef þú ert ekki eigandi að geymslunni verður þú að fá aðgangsheimild hjá stofnanda geymslunnar til að geta uppfært efni geymslunnar og sent aftur á GitHub. Ef nemendur vinna saman í hópverkefni þá er þessi aðferð skynsamleg. 
