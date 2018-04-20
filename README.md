@@ -2,12 +2,12 @@
 # Git æfingaverkefni 
 
 Í allri hópverkavinnu á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git forritinu sem hægt er að sækja hér https://git-scm.com/
-Þegar unnið er í hópverkefnum á að skrá reglulega  ``` $ git commit -m 'lýsing...' ``` í umsjónarkerfið og altaf uppfæra verkefnið á GitHub í lok vinnutímans ```$ git push. ```
+Þegar unnið er í hópverkefnum á að skrá reglulega  ``` $ git commit -m 'lýsing...' ``` í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnutímans ```$ git push. ```
 
 ### Afritun _„Fork“_ og speglun _„Git clone“_
 Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) er gogguð „Fork“ þá færðu _nýtt eintak_ af geymslunni sem tilheyrir þínum reikningi. Þú getur gert hvað sem er við innihald geymslunnar og það hefur engin áhrif á upprunalega geymslu. Hinsvegar ef þú villt láta höfund geymslunnar vita hvað þú ert að bralla, þá getur þú sent honum skilaboð í gegnum skilaboðakerfið **„Pull request“**. Þar getur höfundurinn borið saman kóðann sem þú ert með við upprunalegan kóða og ef þín lausn er betri þá er hún sett saman við upprunalegan kóða með skipuninni **„Merge request“**.
 
-### Hópverkerkavinna
+### Hópverkefnavinna
 Þegar nemendur vinna saman í hópverkefni þá er skynsamlegt að spegla **„Git clone“** geymsluna yfir á tölvur þátttakenda þannig að allir hafa sitt eintak af verkefninu. Git sér síðan um samræmingu gagna þannig að ekkert ósamræmi er í gögnum og ekki er hægt að yfirrita gömul skjöl yfir ný. Til að nemendur geti unnið saman í einni geymslu þá verður stofnandi geymslunnar að veita aðgang að henni [sjá nánar hér.](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/Samstarf%20%C3%A1%20GitHub.pdf) Síðan geta allir uppfært og sent efni í sömu geymslu á GitHub. 
 
 ### Æfingaverkefni  
