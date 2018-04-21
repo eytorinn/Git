@@ -9,7 +9,7 @@ Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` 
 [Sjá yfirlit yfir helstu Git skipanir hér](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/github-git-cheat-sheet.pdf)
 
 # Git hópverkefni 
-Git hannað til að halda utanum verkefni með dreyfðri útgáfustjórn _(Distribute Version Control)_. Það þýðir að þátttakendur í hópverkefni eru allir með eintak af öllu verkefninu. Git sér um að hindra árekstra og eyðingu gagna sem eru í vinnslu. Mikið öryggi fellst í dreyfingu verksins vegna þess að ekki er hægt að eyða öllum útgáfunum í einu eða öll vinnsla stöðvist vegna þess að miðlari _(server)_ fer á hliðina vegna álags eða kerfishruns.
+Git er hannað til að halda utanum verkefni með dreyfðri útgáfustjórn _(Distribute Version Control)_. Það þýðir að þátttakendur í hópverkefni eru allir með eintak af öllu verkefninu. Git sér um að hindra árekstra og eyðingu gagna sem eru í vinnslu. Mikið öryggi fellst í dreifingu verksins vegna þess að ekki er hægt að eyða öllum útgáfunum í einu eða öll vinnsla stöðvist vegna þess að miðlari _(server)_ fer á hliðina vegna álags eða kerfishruns.
 Í allri hópverkavinnu á tölvubraut á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. 
 Þegar unnið er í hópverkefnum á að skrá vinnuferlið reglulega  í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnutímans ```$ git push. ```
 ### Afritun _„Fork“_ og speglun _„Git clone“_
@@ -39,10 +39,10 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 
 ### Árekstrar (conflicts)
 
-Git ritþór (editor)
-Til að nota Sublime ritþórinn í staðinn fyrir VIM (_default editor_) í Git Bash.
+#### Git Bash ritþór (editor) fyrir villuskilaboð 
+Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir VIM (_default editor_) skráið eftifarandi kóða í Bashinn.
 
-> git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w"
+``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
 
 <!--
