@@ -1,7 +1,8 @@
 # Git útgáfustýring og samþáttun
 _Git version control system_
 
-þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Þannig býr maður til tímalínu þar sem hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
+þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git forritinu sem hægt er að sækja hér https://git-scm.com/.
+Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` býr maður til tímalínu þar sem hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
 
 > $ git [add] [commit] [status] [push] [pull] [log] [diff] [branch] [merge]
 
@@ -9,8 +10,8 @@ _Git version control system_
 
 # Git hópverkefni 
 
-Í allri hópverkavinnu á tölvubraut á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git forritinu sem hægt er að sækja hér https://git-scm.com/
-Þegar unnið er í hópverkefnum á að skrá reglulega  ``` $ git commit -m 'lýsing...' ``` í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnutímans ```$ git push. ```
+Í allri hópverkavinnu á tölvubraut á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. 
+Þegar unnið er í hópverkefnum á að skrá vinnuferlið reglulega  í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnutímans ```$ git push. ```
 ### Afritun _„Fork“_ og speglun _„Git clone“_
 Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) er gogguð „Fork“ þá færðu _nýtt eintak_ af geymslunni sem tilheyrir þínum reikningi. Þú getur gert hvað sem er við innihald geymslunnar og það hefur engin áhrif á upprunalega geymslu. Hinsvegar ef þú villt láta höfund geymslunnar vita hvað þú ert að bralla, þá getur þú sent honum skilaboð í gegnum skilaboðakerfið **„Pull request“**. Þar getur höfundurinn borið saman kóðann sem þú ert með við upprunalegan kóða og ef þín lausn er betri þá er hún sett saman við upprunalegan kóða með skipuninni **„Merge request“**.
 
