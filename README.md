@@ -1,8 +1,9 @@
 # Git útgáfustýring og samþáttun
 _Git version control system_
 
-þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git forritinu sem hægt er að sækja hér https://git-scm.com/.
-Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` býr maður til tímalínu þar sem hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
+þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git umsjónarkerfinu sem hægt er að sækja hér https://git-scm.com/. 
+
+Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` í Git býr maður til tímamót sem mynda tímalínu. Síðar í vinnuferlinu er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
 
 > $ git [add] [commit] [status] [push] [pull] [log] [diff] [branch] [merge]
 
@@ -10,8 +11,10 @@ Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` 
 
 # Git hópverkefni 
 Git er hannað til að halda utanum verkefni með dreyfðri útgáfustjórn _(Distribute Version Control)_. Það þýðir að þátttakendur í hópverkefni eru allir með eintak af öllu verkefninu. Git sér um að hindra árekstra og eyðingu gagna sem eru í vinnslu. Mikið öryggi fellst í dreifingu verksins vegna þess að ekki er hægt að eyða öllum útgáfunum í einu eða öll vinnsla stöðvist vegna þess að miðlari _(server)_ fer á hliðina vegna álags eða kerfishruns.
-Í allri hópverkavinnu á tölvubraut á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. 
+
+> Í allri hópverkavinnu á tölvubraut á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. 
 Þegar unnið er í hópverkefnum á að skrá vinnuferlið reglulega  í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnutímans ```$ git push. ```
+
 ### Afritun _„Fork“_ og speglun _„Git clone“_
 Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) er gogguð „Fork“ þá færðu _nýtt eintak_ af geymslunni sem tilheyrir þínum reikningi. Þú getur gert hvað sem er við innihald geymslunnar og það hefur engin áhrif á upprunalega geymslu. Hinsvegar ef þú villt láta höfund geymslunnar vita hvað þú ert að bralla, þá getur þú sent honum skilaboð í gegnum skilaboðakerfið **„Pull request“**. Þar getur höfundurinn borið saman kóðann sem þú ert með við upprunalegan kóða og ef þín lausn er betri þá er hægt að setja hana saman við upprunalegan kóða með skipuninni **„Merge request“**.
 
@@ -38,9 +41,11 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 *	[Bjargir](Bjargir.md)
 
 ### Árekstrar (conflicts)
+Það er óhjákvæmilegt í hópverkavinnu að upp komi sú staða að tvær útgáfur séu til af sama skjali. Git kemur í veg fyrir að skjöl séu yfirrituð og sýnir þess í stað ósamræmið í kóða og eða texta.
+
 
 #### Git Bash ritþór (editor) fyrir villuskilaboð 
-Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir VIM (_default editor_) skráið eftifarandi kóða í Bashinn.
+Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir VIM (_default editor_) skráið eftifarandi kóða í _"Git Bash"_.
 
 ``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
