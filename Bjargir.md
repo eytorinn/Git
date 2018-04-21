@@ -18,7 +18,7 @@ Lesefni: https://git-scm.com/book/en/v2
 * https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf
 * https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell 
 * https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-* [Skjákynning á udacity.com](https://classroom.udacity.com/courses/ud456) _Þar þarftu að vera með reikning_.
+
 
 #### Hvað er Markdown?
 * https://help.github.com/articles/markdown-basics/
