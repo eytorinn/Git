@@ -1,13 +1,28 @@
+# Git útgáfustýring og samþáttun
+_Git version control system_
 
-# Git æfingaverkefni 
+#### Nemendur geta:
 
-Í allri hópverkavinnu á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git forritinu sem hægt er að sækja hér https://git-scm.com/
+* þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð í Git. Síðan er hægt að fara í gegnum allt vinnuferlið ``` $ git log checkout ?_ 
+* unnið í sama skjali eða kóða, í mismunandi greinum _branches_
+* búið til greinar og sett aftur í aðalskjalið _master_
+
+> $ git [add] [commit] [push] [pull] [branch]
+
+# Git hópverkefni 
+
+Í allri hópverkavinnu á tölvubraut á að nota GIT útgáfustjórnun og vakta verkefnin á meðan unnið er í þeim. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git forritinu sem hægt er að sækja hér https://git-scm.com/
 Þegar unnið er í hópverkefnum á að skrá reglulega  ``` $ git commit -m 'lýsing...' ``` í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnutímans ```$ git push. ```
-
 ### Afritun _„Fork“_ og speglun _„Git clone“_
 Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) er gogguð „Fork“ þá færðu _nýtt eintak_ af geymslunni sem tilheyrir þínum reikningi. Þú getur gert hvað sem er við innihald geymslunnar og það hefur engin áhrif á upprunalega geymslu. Hinsvegar ef þú villt láta höfund geymslunnar vita hvað þú ert að bralla, þá getur þú sent honum skilaboð í gegnum skilaboðakerfið **„Pull request“**. Þar getur höfundurinn borið saman kóðann sem þú ert með við upprunalegan kóða og ef þín lausn er betri þá er hún sett saman við upprunalegan kóða með skipuninni **„Merge request“**.
 
 Þegar nemendur vinna saman í hópverkefni þá er skynsamlegt að spegla **„Git clone“** geymsluna yfir á tölvur þátttakenda þannig að allir hafa sitt eintak af verkefninu. Git sér síðan um samræmingu gagna þannig að ekkert ósamræmi er í gögnum og ekki er hægt að yfirrita gömul skjöl yfir ný. Til að nemendur geti unnið saman í einni geymslu þá verður stofnandi geymslunnar að veita aðgang að henni [sjá nánar hér.](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/Samstarf%20%C3%A1%20GitHub.pdf) Síðan geta allir uppfært og sent efni í sömu geymslu á GitHub. 
+
+### Á Github geta nemendur:
+* stofnað sameiginlega geymslu e. _"repository"_ um verkefni
+* stofnandi geymslunnar getur bætt við notendum _contributors_ með sömu réttindum og hann sjálfur hefur á geymslunni . 
+* notendur _contributors_ geta breytt og bætt við efni eins og stofnandinn. 
+* öll vinnugögn hópverkefnisins eiga að vera á Github
 
 ### Æfingaverkefni  
 
@@ -21,6 +36,11 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 	https://vefhonnun.github.io/Git-aefingaverkefni/
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir/Wiki](https://github.com/vefhonnun/Git-aefingaverkefni/wiki)
+
+Git ritþór (editor)
+Til að nota Sublime ritþórinn í staðinn fyrir VIM (_default editor_) í Git Bash.
+
+> git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w"
 
 
 <!--
