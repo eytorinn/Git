@@ -26,7 +26,7 @@ Lesefni: https://git-scm.com/book/en/v2
 
 _ps:  Git er innbyggt í  PyCharm, Atom og fleiri forritum_
 
-*	[Kynning](../Git/)
+*	[Kynning](README.md)
 *	[Hópverkefnavinna](Hópverkefnavinna.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
