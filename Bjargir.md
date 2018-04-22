@@ -31,8 +31,7 @@ Til að nota _Sublime_ ritþórinn í staðinn fyrir _VIM (default editor)_ í *
 
 _ps:  Git er innbyggt í  PyCharm, Atom og fleiri forritum_
 
-*	[Inngangur](Readme.md)
-*	[Æfingaverkefni I](afritun.md)
-*	[Æfingaverkefni II](ágreiningur.md)
+*	[Kynning](Git)
+*	[Hópverkefnavinna](Hópverkefnavinna.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
