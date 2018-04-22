@@ -1,4 +1,5 @@
 # Ágreiningur _(conflicts)_
+Æfingaverkefni
 
 Það er óhjákvæmilegt í hópverkavinnu að upp komi sú staða að tvær útgáfur séu til af sama skjali. Git kemur í veg fyrir að skjöl séu yfirrituð og sýnir þess í stað ósamræmið sem er í kóða og eða texta. 
 
@@ -13,7 +14,7 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 ``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
 *	[Inngangur](Readme.md)
-*	[Æfingaverkefni I](afritun.md)
-*	[Æfingaverkefni II](ágreiningur.md)
+*	[Hópverkavinna](afritun.md)
+*	[Ágreiningur](ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)

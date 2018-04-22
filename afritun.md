@@ -1,4 +1,11 @@
-# Æfingaverkefni I 
+# Hópverkefnavinna
+Æfingaverkefni
+
+### Á Github geta nemendur:
+* stofnað sameiginlega geymslu e. _"repository"_ um verkefni
+* stofnandi geymslunnar getur bætt við notendum _contributors_ með sömu réttindum og hann sjálfur hefur á geymslunni . 
+* notendur _contributors_ geta breytt og bætt við efni eins og stofnandinn. 
+* öll vinnugögn hópverkefnisins eiga að vera á Github
 
 ### GitHub - Afritun _(Fork)_
 
@@ -13,7 +20,7 @@
 	https://vefhonnun.github.io/Git-aefingaverkefni/
 
 *	[Inngangur](Readme.md)
-*	[Æfingaverkefni I](afritun.md)
-*	[Æfingaverkefni II](ágreiningur.md)
+*	[Hópverkavinna](afritun.md)
+*	[Ágreiningur](ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)

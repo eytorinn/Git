@@ -1,12 +1,6 @@
 # Git útgáfustýring og samþáttun
 _Git version control system_
 
-*	[Inngangur](Readme.md)
-*	[Æfingaverkefni I](afritun.md)
-*	[Æfingaverkefni II](ágreiningur.md)
-*	[Lesefni til stuðnings verkefninu](Lesefni/)
-*	[Bjargir](Bjargir.md)
-
 þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git umsjónarkerfinu sem hægt er að sækja hér https://git-scm.com/. 
 
 Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` í Git býr maður til tímamót sem mynda tímalínu. Síðar í vinnuferlinu er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
@@ -26,12 +20,13 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 
 Þegar nemendur vinna saman í hópverkefni þá er skynsamlegt að spegla **„Git clone“** geymsluna yfir á tölvur þátttakenda þannig að allir hafa sitt eintak af verkefninu. Git sér síðan um samræmingu gagna þannig að ekkert ósamræmi er í gögnum og ekki er hægt að yfirrita gömul skjöl yfir ný. Til að nemendur geti unnið saman í einni geymslu þá verður stofnandi geymslunnar að veita aðgang að henni [sjá nánar hér.](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/Samstarf%20%C3%A1%20GitHub.pdf) Síðan geta allir uppfært og sent efni í sömu geymslu á GitHub. 
 
-### Á Github geta nemendur:
-* stofnað sameiginlega geymslu e. _"repository"_ um verkefni
-* stofnandi geymslunnar getur bætt við notendum _contributors_ með sömu réttindum og hann sjálfur hefur á geymslunni . 
-* notendur _contributors_ geta breytt og bætt við efni eins og stofnandinn. 
-* öll vinnugögn hópverkefnisins eiga að vera á Github
+### Æfingaverkefni
+* [Æfingaverkefni - afritun og speglun](afritun.md)
+* [Æfingaverkefni - ágreiningur](ágreiningur.md)
 
+
+* [Lesefni til stuðnings verkefninu](Lesefni/)
+* [Bjargir](Bjargir.md)
 <!--
 ### Námsmat:
 *	Fjórar greinar af vefsíðu unnar af báðum nemendum (2x2). 
