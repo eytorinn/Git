@@ -19,7 +19,7 @@
 	* 	Setjið tengil í README.md skrána sem vísar á vefinn eins og hér er sýnt.
 	https://vefhonnun.github.io/Git-aefingaverkefni/
 
-*	[Inngangur](Readme.md)
+Yfirlit
 *	[Afritun og speglun](afritun.md)
 *	[Ágreiningur](ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
