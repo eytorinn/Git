@@ -1,6 +1,12 @@
 # Git útgáfustýring og samþáttun
 _Git version control system_
 
+*	[Inngangur](Readme.md)
+*	[Æfingaverkefni I](afritun.md)
+*	[Æfingaverkefni II](ágreiningur.md)
+*	[Lesefni til stuðnings verkefninu](Lesefni/)
+*	[Bjargir](Bjargir.md)
+
 þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git umsjónarkerfinu sem hægt er að sækja hér https://git-scm.com/. 
 
 Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` í Git býr maður til tímamót sem mynda tímalínu. Síðar í vinnuferlinu er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
@@ -25,12 +31,6 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 * stofnandi geymslunnar getur bætt við notendum _contributors_ með sömu réttindum og hann sjálfur hefur á geymslunni . 
 * notendur _contributors_ geta breytt og bætt við efni eins og stofnandinn. 
 * öll vinnugögn hópverkefnisins eiga að vera á Github
-
-*	[Inngangur](Readme.md)
-*	[Æfingaverkefni I](afritun.md)
-*	[Æfingaverkefni II](ágreiningur.md)
-*	[Lesefni til stuðnings verkefninu](Lesefni/)
-*	[Bjargir](Bjargir.md)
 
 <!--
 ### Námsmat:
