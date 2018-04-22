@@ -18,7 +18,7 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 * [Bjargir](Bjargir.md)
 
 Yfirlit
-* [GIT kynning](Git/)
+* [GIT kynning](README.md)
 <!--
 ### Námsmat:
 *	Fjórar greinar af vefsíðu unnar af báðum nemendum (2x2). 
