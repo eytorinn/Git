@@ -4,7 +4,7 @@
 Það er óhjákvæmilegt í hópverkavinnu að upp komi sú staða að tvær útgáfur séu til af sama skjali. Git kemur í veg fyrir að skjöl séu yfirrituð og sýnir þess í stað ósamræmið sem er í kóða og eða texta. 
 
 ### Dæmi
-í vinnslu ....
+í vinnslu .... þessi útgáfa er gömul og lúinn .. :o
 
 Nemendur skoða síðan útgáfurnar og eyða annari hvorri útgáfunni eða búa til nýja sameiginlega leiðréttingu.  
 
