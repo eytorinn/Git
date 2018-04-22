@@ -30,3 +30,9 @@ Til að nota _Sublime_ ritþórinn í staðinn fyrir _VIM (default editor)_ í *
 > git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w"
 
 _ps:  Git er innbyggt í  PyCharm, Atom og fleiri forritum_
+
+*	[Inngangur](Readme.md)
+*	[Æfingaverkefni I](afritun.md)
+*	[Æfingaverkefni II](ágreiningur.md)
+*	[Lesefni til stuðnings verkefninu](Lesefni/)
+*	[Bjargir](Bjargir.md)
