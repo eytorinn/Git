@@ -20,7 +20,7 @@
 	https://vefhonnun.github.io/Git-aefingaverkefni/
 
 *	[Inngangur](Readme.md)
-*	[Hópverkavinna](afritun.md)
+*	[Afritun og speglun](afritun.md)
 *	[Ágreiningur](ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)

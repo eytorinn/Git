@@ -14,7 +14,7 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 ``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
 *	[Inngangur](Readme.md)
-*	[Hópverkavinna](afritun.md)
+*	[Afritun og speglun](afritun.md)
 *	[Ágreiningur](ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)

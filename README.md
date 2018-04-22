@@ -21,10 +21,10 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 Þegar nemendur vinna saman í hópverkefni þá er skynsamlegt að spegla **„Git clone“** geymsluna yfir á tölvur þátttakenda þannig að allir hafa sitt eintak af verkefninu. Git sér síðan um samræmingu gagna þannig að ekkert ósamræmi er í gögnum og ekki er hægt að yfirrita gömul skjöl yfir ný. Til að nemendur geti unnið saman í einni geymslu þá verður stofnandi geymslunnar að veita aðgang að henni [sjá nánar hér.](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/Samstarf%20%C3%A1%20GitHub.pdf) Síðan geta allir uppfært og sent efni í sömu geymslu á GitHub. 
 
 ### Æfingaverkefni
-* [Æfingaverkefni - afritun og speglun](afritun.md)
-* [Æfingaverkefni - ágreiningur](ágreiningur.md)
+* [Afritun og speglun](afritun.md)
+* [Ágreiningur](ágreiningur.md)
 
-
+#### Ýtarefni
 * [Lesefni til stuðnings verkefninu](Lesefni/)
 * [Bjargir](Bjargir.md)
 <!--
