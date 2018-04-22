@@ -1,12 +1,20 @@
 # Ágreiningur _(conflicts)_
 Æfingaverkefni
 
-Það er óhjákvæmilegt í hópverkavinnu að upp komi sú staða að tvær útgáfur séu til af sama skjali. Git kemur í veg fyrir að skjöl séu yfirrituð og sýnir þess í stað ósamræmið sem er í kóða og eða texta. 
+Það er óhjákvæmilegt í hópverkavinnu að upp komi sú staða að tvær útgáfur séu til af sama skjali. Git kemur í veg fyrir að skjöl séu yfirrituð og sýnir þess í stað ósamræmið sem er í kóða og eða texta. Til að forðast árekstra þá er það góð vinnubrögð að byrja vinnudaginn á því að tjékka hvort (_local_) heimaútgáfan sé ekki með síðustu útgáfu verksins með skipuninni ``` $ git pull ``` af GitHub geymslunni, ef allt er í lagi kemur m.a. eftirfarandi skilaboð ``` working tree is clear, nothing to commit ```  
+Ef þú staða kemur upp að tvær útgáfur eru til af sama skjali, þá sýnir git báðar útgáfurnar í Git Bash. Til að lagafæra skjölin þarf að sækja útgáfuna sem er á github ``` $ git pull ``` síðan bæta henni við local útgáfuna ``` git add . ``` og gefa comment á vandræðin þá erum við með báðar útgáfurnar heima og getum lagfært skjalið.
 
+````
+<<<<<<< HEAD
 ### Dæmi
 í vinnslu .... þessi útgáfa er gömul og lúinn .. :o
+=======
+### Dæmi um ágreining
+í vinnslu .... Hér set ég texta beint í GitHub geymsluna vitandi að þessi texti er ekki í (local) geymslunni. Síðan breyti ég skjalinu sem er í heimageymslunni. Hér finnur git að ekki er allt með feldu og sýnir báðar útgáfurnar. 
+>>>>>>> 4849c518d18d8ea59b65bd063bd8d9e96bc04830
 
-Nemendur skoða síðan útgáfurnar og eyða annari hvorri útgáfunni eða búa til nýja sameiginlega leiðréttingu.  
+``` 
+það er hægt að eyða annari hvorri útgáfunni eða búa til nýja sameiginlega leiðréttingu.  
 
 #### Git Bash ritþór (editor) fyrir villuskilaboð 
 Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir VIM (_default editor_) skráið eftifarandi kóða í _"Git Bash"_.
