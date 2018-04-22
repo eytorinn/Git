@@ -9,9 +9,9 @@ Ef sú staða kemur upp að tvær útgáfur eru til af sama skjali, þá sýnir 
 ### Dæmi
 í vinnslu .... þessi local útgáfa er gömul og lúinn .. :o
 =======
-### Dæmi um ágreining
+### Dæmi 
 í vinnslu .... Hér set ég texta beint í GitHub geymsluna vitandi að þessi texti 
-er ekki í (local) geymslunni. Síðan breyti ég skjalinu sem er í heimageymslunni. 
+er ekki í (local) geymslunni. ;) 
 Hér finnur git að ekki er allt með feldu og sýnir báðar útgáfurnar. 
 >>>>>>> 4849c518d18d8ea59b65bd063bd8d9e96bc04830
 ``` 
