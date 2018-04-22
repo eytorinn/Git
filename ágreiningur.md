@@ -15,7 +15,7 @@ er ekki í (local) geymslunni. Síðan breyti ég skjalinu sem er í heimageymsl
 Hér finnur git að ekki er allt með feldu og sýnir báðar útgáfurnar. 
 >>>>>>> 4849c518d18d8ea59b65bd063bd8d9e96bc04830
 ``` 
-það er hægt að eyða annari hvorri útgáfunni eða búa til nýja sameiginlega leiðréttingu.  
+það er hægt að eyða annari hvorri útgáfunni eða búa til nýja sameiginlega leiðréttingu. Þegar því er lokið þá er skjalið uppfært í Git, ``` $ git add . ``` og ``` $ git commit -m 'ágreiningur lagfærður' ``` síðan ``` $ git push ```. 
 
 #### Git Bash ritþór (editor) fyrir villuskilaboð 
 Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir VIM (_default editor_) skráið eftifarandi kóða í _"Git Bash"_.
