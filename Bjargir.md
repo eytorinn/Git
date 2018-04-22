@@ -24,11 +24,6 @@ Lesefni: https://git-scm.com/book/en/v2
 * https://help.github.com/articles/markdown-basics/
 * http://en.wikipedia.org/wiki/Markdown
 
-#### Git ritþór _(editor)_
-Til að nota _Sublime_ ritþórinn í staðinn fyrir _VIM (default editor)_ í **Git Bash** .
-
-> git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w"
-
 _ps:  Git er innbyggt í  PyCharm, Atom og fleiri forritum_
 
 *	[Kynning](Git)
