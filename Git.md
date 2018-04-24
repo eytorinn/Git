@@ -14,12 +14,6 @@ Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fa
 
 [Sjá yfirlit yfir helstu Git skipanir hér](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/github-git-cheat-sheet.pdf)
 
-git status
-On branch master
-Your branch is up to date with 'origin/master'.
-
-nothing to commit, working tree clean
-
 > Do not forget to add a comment when you commit your files. Strategic commenting in Git is as important as commenting code. If you accidentally forget to add a comment and end up in a strange screen where you can no longer enter any commands, press ESC and type :q! followed by ENTER.
 
 #### Yfirlit

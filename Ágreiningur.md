@@ -2,7 +2,11 @@
 Æfingaverkefni
 
 Það er óhjákvæmilegt í hópverkavinnu að upp komi sú staða að tvær útgáfur séu til af sama skjali. Git kemur í veg fyrir að skjöl séu yfirrituð og sýnir þess í stað ósamræmið sem er í kóða og eða texta. Til að forðast árekstra þá er það góð vinnubrögð að byrja vinnudaginn á því að tjékka hvort (_local_) heimaútgáfan sé ekki með síðustu útgáfu verksins með skipuninni ``` $ git pull ``` af GitHub geymslunni, ef allt er í lagi kemur m.a. eftirfarandi skilaboð 
-``` working tree is clear, nothing to commit ```  
+``` git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean ```  
 Ef sú staða kemur upp að tvær útgáfur eru til af sama skjali, þá sýnir git báðar útgáfurnar í Git Bash. Til að lagafæra skjölin þarf að sækja útgáfuna sem er á github ``` $ git pull ``` síðan bæta henni við local útgáfuna ``` git add . ``` og tilgreina vandræðin ``` $ git commit -m 'ágreiningur í texta' ``` þá erum við með báðar útgáfurnar heima og getum lagfært skjalið.
 ```
 <<<<<<< HEAD
