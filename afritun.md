@@ -22,6 +22,8 @@ Dæmi: ``` $ https://github.com/ÞínGeymsla/Git-aefingaverkefni.git ```
 
 Yfirlit
 *	[Kynning](README.md)
+*   [Unnið með GIT](Git.md)
+*   [GIT hópverkefnavinna](Hópverkefnavinna.md)
 *	[Ágreiningur](Ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
