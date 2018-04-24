@@ -16,10 +16,8 @@ Hér finnur git að ekki er allt með feldu og sýnir báðar útgáfurnar.
 >>>>>>> 4849c518d18d8ea59b65bd063bd8d9e96bc04830
 ``` 
 það er hægt að eyða annari hvorri útgáfunni eða búa til nýja sameiginlega leiðréttingu. Þegar því er lokið þá er skjalið uppfært í Git, ``` $ git add . ``` og ``` $ git commit -m 'ágreiningur lagfærður' ``` síðan ``` $ git push ```. 
-
 #### Git Bash ritþór (editor) fyrir villuskilaboð 
 Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir VIM (_default editor_) skráið eftifarandi kóða í _"Git Bash"_.
-
 ``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
 Yfirlit
@@ -28,3 +26,5 @@ Yfirlit
 *	[Ágreiningur](ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
+
+Do not forget to add a comment when you commit your files. Strategic commenting in Git is as important as commenting code. If you accidentally forget to add a comment and end up in a strange screen where you can no longer enter any commands, press ESC and type :q! followed by ENTER.
