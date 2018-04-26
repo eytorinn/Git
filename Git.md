@@ -18,7 +18,7 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipunina. 
  ``` cd ``` *"Change Directory"* Hvar á geymslan að vera á tölvunni?
 
-```markdown
+```
 $ echo "# Geymsla" >> README.md
 $ git init
 $ git add README.md
@@ -28,9 +28,13 @@ $ git push -u origin master
 ``` 
 Hér að ofan eru sýndar 6 skipanir til að búa til Git geymslu.
 Hvað gera svo þessar skipanir
-1. mappa búin til **echo "# (sem heitir Geymsla)** og skjal búið til **>>** sem heitir README.md inn í möppunni
-2. **git init** býr til umsjónarkerfi fyrir nýju geymsluna. Kerfið er í möppu sem er falin (*hidden*). Hægt er að skoða hana með því að stilla í *Explorer - View - [x] Hidden items* (Ekki eiga neitt við gögnin sem eru þar).
-3. 
+1. mappa búin til **echo "#**(_sem heitir Geymsla_)" og skjal búið til **>>** sem heitir _README.md_ inn í möppunni
+2. **git init** býr til umsjónarkerfi fyrir nýju geymsluna. Kerfið er í möppu sem er falin (*hidden*). Hægt er að skoða hana með því að stilla *Explorer - View - [x] Hidden items* (Ekki eiga neitt við gögnin sem eru í .git).
+3. **git add .**  Git skrásetur stöðu verkefnisins á þessum tímapunkti það má kalla það sviðsetningu.
+4. **git commit -m "útskýring"** Til að geta skoðað stöðuna síðar verður útskýring að fylgja sviðsetningunni.
+5. Hér er "Geymsla.git" vísað á GitHub reikning þinn
+6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður *-u origin master* að fylgja með. 
+Eftir fyrstu færslu er hægt að senda gögn á milli vinnusvæðis og GitHub með því að nota *git push* = senda gögn og *git pull* = sækja gögn. 
 
 #### Geymsla búin til á GitHub og afrituð á vinnusvæði
  - Git clone
