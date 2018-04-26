@@ -35,9 +35,11 @@ Hvað gera svo þessar skipanir
 5. Hér er "Geymsla.git" vísað á GitHub reikning þinn
 6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður **-u origin master** að fylgja með. 
 
-Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið ``` cd H:/Vef2/geymsla/ ``` . Síðan er farið að vinna í verkefninu. Git fylgist með allri textavinnslu og breytingum á textaskjölum. Með skráningunni ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` í Git skráum við stöðu verksins sem við eru að vinna að og Git býr til tímamót. 
+Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið, dæmi:  ``` cd H:/Vef2/geymsla/ ``` . Síðan er farið að vinna í verkefninu. Eftir fyrstu færslu er hægt að senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. 
+
+Git fylgist með allri textavinnslu og breytingum á textaskjölum. Með skráningunni ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` í Git skráum við stöðu verksins sem við eru að vinna að og Git býr til tímamót. 
 Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
-Eftir fyrstu færslu er hægt að senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. 
+
 
 #### Geymsla búin til á GitHub og afrituð á vinnusvæði
  - Git clone
