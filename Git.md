@@ -4,7 +4,7 @@
 
 Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://git-scm.com/. Á þeirri vefsíðu er að finna ýtarlegar upplýsingar um kosti þess að nota Git. Hér er farið yfir helstu aðgerðir í Git sem auka öryggi og bætir verkferli í allri verkefnavinnu. 
 
-Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi.
+Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrirkerfum.
 #### Verklag.
 * Þegar þú byrjar á verkefni þá
 	1. opnar þú **Git Bash** umsjónarkerfið 
@@ -22,13 +22,15 @@ Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir
 echo "# Geymsla" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "útskýring á framkvæmd"
 git remote add origin https://github.com/þinnReikningur/Geymsla.git
 git push -u origin master
 ``` 
-Hér að ofan eru sýndar 6 skipanir sem þarf að búa til git geymslu.
+Hér að ofan eru sýndar 6 skipanir til að búa Git geymslu.
 Hvað gera svo þessar skipanir
-* 1. mappa búin til sem heitir Geymsla
+1. mappa búin til (*echo*) sem heitir Geymsla
+2. "git init" býr til umsjónarkerfi fyrir nýju geymsluna
+3. 
 
 #### Geymsla búin til á GitHub og afrituð á vinnusvæði
  - Git clone
