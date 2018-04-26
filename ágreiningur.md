@@ -14,6 +14,7 @@ Ef sú staða kemur upp að tvær útgáfur eru til af sama skjali, þá sýnir 
 er ekki í (local) geymslunni. ;) 
 Hér finnur git að ekki er allt með feldu og sýnir báðar útgáfurnar. 
 >>>>>>> 4849c518d18d8ea59b65bd063bd8d9e96bc04830
+
 ``` 
 það er hægt að eyða annari hvorri útgáfunni eða búa til nýja sameiginlega leiðréttingu. Þegar því er lokið þá er skjalið uppfært í Git, ``` $ git add . ``` og ``` $ git commit -m 'ágreiningur lagfærður' ``` síðan ``` $ git push ```. 
 
