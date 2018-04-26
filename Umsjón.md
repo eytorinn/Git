@@ -2,8 +2,11 @@
 
 > í vinnslu .......
 
-Git fylgist með allri textavinnslu og breytingum á textaskjölum. Með skráningunni ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` í Git skráum við stöðu verksins sem við eru að vinna að og Git býr til tímamót. 
-Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
+Efir að hafa opnað **Git Bash** og vísað á Git geymslu þá fylgist forritið með allri textavinnslu og breytingum á þeim. Með skráningunni ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` í Git skráum við stöðu verksins sem við eru að vinna að og Git býr til tímamót. 
+
+Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. 
+
+Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
 
 Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
 
