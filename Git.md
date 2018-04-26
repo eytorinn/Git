@@ -28,7 +28,7 @@ $ git push -u origin master
 ``` 
 Hér að ofan eru sýndar 6 skipanir til að búa til Git geymslu.
 Hvað gera svo þessar skipanir
-1. mappa búin til **echo "# [x]"** sem heitir Geymsla og skjal búið til **>>** sem heitir README.md inn í möppunni
+1. mappa búin til **echo "# (sem heitir Geymsla)** og skjal búið til **>>** sem heitir README.md inn í möppunni
 2. **git init** býr til umsjónarkerfi fyrir nýju geymsluna. Kerfið er í möppu sem er falin (*hidden*). Hægt er að skoða hana með því að stilla í *Explorer - View - [x] Hidden items* (Ekki eiga neitt við gögnin sem eru þar).
 3. 
 
