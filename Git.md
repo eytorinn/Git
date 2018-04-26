@@ -6,17 +6,17 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 
 Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrirkerfum.
 #### Verklag.
-* Þegar þú byrjar á verkefni þá
+Þegar þú byrjar á verkefni þá:
 	1. opnar þú **Git Bash** umsjónarkerfið 
 	2. stofnar geymslu (_**repository**_) sem heldur utan um verkefnið
 	3. lætur Git vakta verkferlið 
 
+#### [Yfirlit yfir hesltu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
+
 #### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
 
-Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipun. 
-
-``` cd ``` 
-
+Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipunina. 
+ ``` cd ``` *"Change Directory"* Hvar á geymslan að vera á tölvunni?
 
 ```
 echo "# Geymsla" >> README.md
@@ -28,7 +28,7 @@ git push -u origin master
 ``` 
 Hér að ofan eru sýndar 6 skipanir til að búa Git geymslu.
 Hvað gera svo þessar skipanir
-1. mappa búin til (*echo*) sem heitir Geymsla
+1. mappa búin til (*echo*) sem heitir Geymsla og skjal búið til (>>) sem heitir README.md 
 2. "git init" býr til umsjónarkerfi fyrir nýju geymsluna
 3. 
 
