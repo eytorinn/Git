@@ -28,7 +28,7 @@ Ef ekki er hægt að leysa ágreining með einföldum hætti þá er hægt að s
 
 Yfirlit
 *   [Kynning](README.md)
-*	[Afritun og speglun](afritun.md)
-*	[Ágreiningur](ágreiningur.md)
+*	[Afritun og speglun](Afritun.md)
+*	[Ágreiningur](Ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
