@@ -11,9 +11,9 @@ Til að skoða tímalínuna þá er ```git log``` skipunin notuð. Með hverri v
 Git býður upp á möguleika að vera með margar útgáfur af sama kóða. Til þess þurfum við að vista kóðann á hliðargrein. 
 Dæmi: þú vilt búa til nýja útgáfu af kóða sem þú ert að vinna í en byrja þar sem þú varst staddur 2 dögum fyrr. 
 * ```git checkout 04c98c7b774``` -> Færir þig á eldri útgáfu af "master"
-* ```git branch grein1``` -> býrð til nýja útgáfu af kóðanum, hér getur þú tekið aðra stefnu með kóðann.
+* ```git branch grein1``` -> býr til nýja útgáfu af kóðanum sem gerð var 2 dögum fyrr, hér getur þú tekið aðra stefnu með kóðann.
 
-Til að sameina greinar þá þarftu að vera á þeirri grein sem verður eftir
+Til að sameina greinar þá þarftu að vera á þeirri grein sem verður eftir t.d.
 * ```git checkout master```
 * ```git merge grein1```
 
