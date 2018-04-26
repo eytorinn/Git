@@ -4,7 +4,7 @@
 
 Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://git-scm.com/. Á þeirri vefsíðu er að finna ýtarlegar upplýsingar um kosti þess að nota Git. Hér er farið yfir helstu aðgerðir í Git sem auka öryggi og bætir verkferli í allri verkefnavinnu. 
 
-Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrirkerfum.
+Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrikerfum.
 #### Verklag.
 Þegar þú byrjar á verkefni þá:
 1. opnar þú **Git Bash** CLI 
@@ -15,7 +15,8 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipunina. 
 
- Hvar á geymslan að vera á tölvunni? Dæmi: ``` cd ``` cd er CLI skipun og stendur fyrir *"Change Directory"*
+ Hvar á geymslan að vera á tölvunni? ``` cd ``` er CLI skipun og stendur fyrir *"Change Directory"*
+  Dæmi: ``` cd /Desktop/ ``` Þá er geymsla búin til á skrifborði tölvunnar. 
 
 ```
 $ echo "# Geymsla" >> README.md
