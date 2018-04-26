@@ -16,7 +16,8 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 #### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
 
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipunina. 
- ``` cd ``` *"Change Directory"* Hvar á geymslan að vera á tölvunni?
+
+ Hvar á geymslan að vera á tölvunni? Dæmi: ``` cd ``` cd er CLI skipun og stendur fyrir *"Change Directory"*
 
 ```
 $ echo "# Geymsla" >> README.md
@@ -50,12 +51,8 @@ Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþ
 
 > $ git [add] [commit] [status] [push] [pull] [log] [diff] [branch] [merge]
 
-
-
-
+http://guides.beanstalkapp.com/version-control/common-git-commands.html
 https://try.github.io/levels/1/challenges/1
-
-> Do not forget to add a comment when you commit your files. Strategic commenting in Git is as important as commenting code. If you accidentally forget to add a comment and end up in a strange screen where you can no longer enter any commands, press ESC and type :q! followed by ENTER.
 
 #### Yfirlit
 * [Kynning](README.md)
