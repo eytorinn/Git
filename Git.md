@@ -14,7 +14,8 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 #### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipun. 
 
-``` cd
+``` cd ``` 
+
 Hér að neðan eru sýndar 6 skipanir sem þarf að búa til git geymslu.
 
 ```
