@@ -2,8 +2,14 @@
 
 > í vinnslu .......
 
-Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git umsjónarkerfinu sem hægt er að sækja hér https://git-scm.com/. 
-Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. 
+Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://git-scm.com/. Á þeirri vefsíðu er að finna ýtarlegar upplýsingar um kosti þess að nota Git. Hér er farið yfir helstu aðgerðir í Git sem auka öryggi og bætir verkferli í allri verkefnavinnu. 
+
+Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git hugbúnaðinum.
+#### Verklag.
+* Þegar þú byrjar á verkefni þá
+	1. opnar þú **Git** umsjónarkerfið 
+	2. stofnar geymslu (_repository_) sem heldur utan um verkefnið
+	3. lætur Git vakta verkferlið 
 
 Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
 
