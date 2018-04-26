@@ -38,21 +38,14 @@ Hvað gera svo þessar skipanir
 
 Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið, dæmi:  ``` cd H:/Vef2/geymsla/ ``` . Síðan er farið að vinna í verkefninu. Eftir fyrstu færslu er hægt að senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. 
 
-Git fylgist með allri textavinnslu og breytingum á textaskjölum. Með skráningunni ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` í Git skráum við stöðu verksins sem við eru að vinna að og Git býr til tímamót. 
-Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
-
-
 #### Geymsla búin til á GitHub og afrituð á vinnusvæði
- - Git clone
+Í Upplýsingatækniskólanum eru allir að vinna á innra neti skólans og milli þess og internetsins er *eldveggur*. Það þýðir að ekki er hægt að stofna geymslu á H: drifinu og senda síðan á GitHub eins og lýst er hér að ofan. Ástæðan er að GitHub miðlarinn getur ekki sótt nauðsynlegar upplýsingar um sendandann, (*öll sund eru lokuð*). Lausnin á vandamálinu er einföld. Við byrjum á því að stofna geymsluna á GitHub og afritum hana síðan yfir á vinnusvæðið okkar á H: drifinu. Github miðlarinn hefur þá allar upplýsignar um geymsluna og er ekki að flækjast fyrir.
+ 
 
-#### Umsjón og samþáttun
+- Git clone
 
-Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
-
-> $ git [add] [commit] [status] [push] [pull] [log] [diff] [branch] [merge]
-
-http://guides.beanstalkapp.com/version-control/common-git-commands.html
-https://try.github.io/levels/1/challenges/1
+#### Æfingaverkefni
+[Git umsjón og samþáttun](Umsjón.md)
 
 #### Yfirlit
 * [Kynning](README.md)
