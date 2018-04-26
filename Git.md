@@ -5,18 +5,20 @@
 Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://git-scm.com/. Á þeirri vefsíðu er að finna ýtarlegar upplýsingar um kosti þess að nota Git. Hér er farið yfir helstu aðgerðir í Git sem auka öryggi og bætir verkferli í allri verkefnavinnu. 
 
 Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrikerfum.
+
 #### Verklag.
+1. Stofna reikning á GitHub.
+Þegar reikningur er stofnaður á GitHub þá er staðfesting send á tölvupóstfangið sem tilgreint er í umsókninni. Eftir að hafa staðfest umsóknina þá er hægt að nota github reikningin til að búa til geymslur, afrita geymslur frá öðrum og verið í samstarfi við aðra notendur á GitHub. 
+
+#### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
 Þegar þú byrjar á verkefni þá:
 1. opnar þú **Git Bash** CLI 
 2. stofnar geymslu (_**repository**_) sem heldur utan um verkefnið
 3. lætur Git vakta vinnuferlið 
-
-#### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
-
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipunina. 
 
- Hvar á geymslan að vera á tölvunni? ``` cd ``` er CLI skipun og stendur fyrir *"Change Directory"*
-  Dæmi: ``` cd /Desktop/ ``` Þá er geymsla búin til á skrifborði tölvunnar. 
+> Hvar á geymslan að vera á tölvunni? ``` cd ``` er CLI skipun og stendur fyrir *"Change Directory"*
+  Dæmi: ``` cd Desktop/ ``` Þá verður geymsla búin til á skrifborði tölvunnar. 
 
 ```
 $ echo "# Geymsla" >> README.md
@@ -41,17 +43,9 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 Í Upplýsingatækniskólanum eru allir að vinna á innra neti skólans og milli þess og internetsins er *eldveggur*. Það þýðir að ekki er hægt að stofna geymslu á H: drifinu og senda síðan á GitHub eins og lýst er hér að ofan. Ástæðan er að GitHub miðlarinn getur ekki sótt nauðsynlegar upplýsingar um sendandann, (*öll sund eru lokuð*). Lausnin á vandamálinu er einföld. Við byrjum á því að stofna geymsluna á GitHub og afritum hana síðan yfir á vinnusvæðið okkar á H: drifinu. Github miðlarinn hefur þá allar upplýsingar um geymsluna og er ekki að flækjast fyrir.
 
 #### Verklag
-1. Stofna reikning á GitHub.
-Þegar reikningur er stofnaður á GitHub þá er staðfesting send á tölvupóstfangið sem tilgreint er í umsókninni. 
-2. Búa til geymslu [New repository]
-Eftir að hafa staðfest umsóknina þá er hægt að nota github reikningin til að búa til geymslur, afrita geymslur frá öðrum og verið í samstarfi við aðra notendur á GitHub. Þegar ný geymsla er búin til á GitHub þá þarf að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
-3. Spegla (*clone*) geymsluna yfir á vinnusvæði þitt.
-
-
-
-
-
-#### Speglun geymslu 
+1. . Búa til geymslu [**New repository**]
+Þegar ný geymsla er búin til á GitHub þá þarf að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
+2. Spegla (*clone*) geymsluna yfir á vinnusvæði þitt.
 
 
 [Yfirlit yfir hesltu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
