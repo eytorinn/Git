@@ -9,5 +9,13 @@ Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþ
 
 > $ git [add] [commit] [status] [push] [pull] [log] [diff] [branch] [merge]
 
-http://guides.beanstalkapp.com/version-control/common-git-commands.html
-https://try.github.io/levels/1/challenges/1
+Sjá nánar á:
+* [Yfirlit yfir hesltu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
+* http://guides.beanstalkapp.com/version-control/common-git-commands.html
+* https://try.github.io/levels/1/challenges/1
+
+#### Yfirlit
+* [Unnið með GIT](Git.md)
+* [Git umsjón og samþáttun](Umsjón.md)
+* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+* [Bjargir](Bjargir.md)

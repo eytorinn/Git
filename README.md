@@ -6,5 +6,6 @@ Ekkert er eins leiðinlegt eins og að yfirrita eða eyða kóða sem tekið hef
 
 #### Yfirlit
 * [Unnið með GIT](Git.md)
+* [Git umsjón og samþáttun](Umsjón.md)
 * [GIT hópverkefnavinna](Hópverkefnavinna.md)
 * [Bjargir](Bjargir.md)
