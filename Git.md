@@ -12,11 +12,11 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 	3. lætur Git vakta verkferlið 
 
 #### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
+
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipun. 
 
 ``` cd ``` 
 
-Hér að neðan eru sýndar 6 skipanir sem þarf að búa til git geymslu.
 
 ```
 echo "# Geymsla" >> README.md
@@ -26,7 +26,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/þinnReikningur/Geymsla.git
 git push -u origin master
 ``` 
-
+Hér að ofan eru sýndar 6 skipanir sem þarf að búa til git geymslu.
 Hvað gera svo þessar skipanir
 * 1. mappa búin til sem heitir Geymsla
 
