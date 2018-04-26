@@ -1,7 +1,5 @@
 # Unnið með Git
 
-> í vinnslu .......
-
 Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://git-scm.com/. Á þeirri vefsíðu er að finna ýtarlegar upplýsingar um kosti þess að nota Git. Hér er farið yfir helstu aðgerðir í Git sem auka öryggi og bætir verkferli í allri verkefnavinnu. 
 
 Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrikerfum.
@@ -37,15 +35,15 @@ Hvað gera svo þessar skipanir
 5. Hér er "Geymsla.git" vísað á GitHub reikning þinn
 6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður **-u origin master** að fylgja með. 
 
-Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið, dæmi:  ``` cd H:/Vef2/geymsla/ ``` . Síðan er farið að vinna í verkefninu. Eftir fyrstu færslu er hægt að senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. 
+Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið, dæmi:  ``` cd Desktop/geymsla/ ``` . Síðan er hægt að vinna í verkefninu og senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. Sjá nánar á [Git umsjón](Umsjón.md).
 
 #### Geymsla búin til á GitHub og afrituð á vinnusvæði
 Í Upplýsingatækniskólanum eru allir að vinna á innra neti skólans og milli þess og internetsins er *eldveggur*. Það þýðir að ekki er hægt að stofna geymslu á H: drifinu og senda síðan á GitHub eins og lýst er hér að ofan. Ástæðan er að GitHub miðlarinn getur ekki sótt nauðsynlegar upplýsingar um sendandann, (*öll sund eru lokuð*). Lausnin á vandamálinu er einföld. Við byrjum á því að stofna geymsluna á GitHub og afritum hana síðan yfir á vinnusvæðið okkar á H: drifinu. Github miðlarinn hefur þá allar upplýsingar um geymsluna og er ekki að flækjast fyrir.
 
 #### Verklag
-1. . Búa til geymslu [**New repository**]
-Þegar ný geymsla er búin til á GitHub þá þarf að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
-2. Spegla (*clone*) geymsluna yfir á vinnusvæði þitt.
+* Búa til geymslu [**New repository**]
+* Þegar ný geymsla er búin til á GitHub þá þarf að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
+* Spegla (*clone*) geymsluna yfir á vinnusvæði þitt.
 
 
 [Yfirlit yfir hesltu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
