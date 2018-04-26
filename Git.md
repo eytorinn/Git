@@ -41,11 +41,10 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 Í Upplýsingatækniskólanum eru allir að vinna á innra neti skólans og milli þess og internetsins er *eldveggur*. Það þýðir að ekki er hægt að stofna geymslu á H: drifinu og senda síðan á GitHub eins og lýst er hér að ofan. Ástæðan er að GitHub miðlarinn getur ekki sótt nauðsynlegar upplýsingar um sendandann, (*öll sund eru lokuð*). Lausnin á vandamálinu er einföld. Við byrjum á því að stofna geymsluna á GitHub og afritum hana síðan yfir á vinnusvæðið okkar á H: drifinu. Github miðlarinn hefur þá allar upplýsingar um geymsluna og er ekki að flækjast fyrir.
 
 #### Verklag
-* Búa til geymslu [**New repository**]
-* Þegar ný geymsla er búin til á GitHub þá þarf að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
+* Búa til geymslu á GitHub reikning -> [**New repository**]
+* Það er mikilvægt að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
 * Spegla (*clone*) geymsluna yfir á vinnusvæði þitt.
-
-
+* [Verkferlinu lýst myndrænt](Lesefni/UppsetningGithubGeymslu.pdf)
 
 #### Yfirlit
 * [Kynning](README.md)
