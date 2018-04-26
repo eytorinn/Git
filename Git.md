@@ -2,18 +2,35 @@
 
 > í vinnslu .......
 
-Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://git-scm.com/. Á þeirri vefsíðu er að finna ýtarlegar upplýsingar um kosti þess að nota Git. Hér er farið yfir helstu aðgerðir í Git sem auka öryggi og bætir verkferli í allri verkefnavinnu. Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_). Það fylgir með Git hugbúnaðinum.
+Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://git-scm.com/. Á þeirri vefsíðu er að finna ýtarlegar upplýsingar um kosti þess að nota Git. Hér er farið yfir helstu aðgerðir í Git sem auka öryggi og bætir verkferli í allri verkefnavinnu. 
+
+Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi.
 #### Verklag.
 * Þegar þú byrjar á verkefni þá
 	1. opnar þú **Git Bash** umsjónarkerfið 
-	2. stofnar geymslu (_repository_) sem heldur utan um verkefnið
+	2. stofnar geymslu (_**repository**_) sem heldur utan um verkefnið
 	3. lætur Git vakta verkferlið 
 
-#### Geymsla búin til (local)
-og sett á github
+#### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
+Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipun. 
 
-#### Geymsla búin til (Github)
-og afrituð - Git clone
+``` cd
+Hér að neðan eru sýndar 6 skipanir sem þarf að búa til git geymslu.
+
+```
+echo "# Geymsla" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/þinnReikningur/Geymsla.git
+git push -u origin master
+``` 
+
+Hvað gera svo þessar skipanir
+* 1. mappa búin til sem heitir Geymsla
+
+#### Geymsla búin til á GitHub og afrituð á vinnusvæði
+ - Git clone
 
 #### Umsjón og samþáttun
 
