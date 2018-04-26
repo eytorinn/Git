@@ -12,10 +12,12 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 	3. lætur Git vakta verkferlið 
 
 #### Geymsla búin til (local)
+og sett á github
 
 #### Geymsla búin til (Github)
+og afrituð - Git clone
 
-#### Vöktun
+#### Umsjón og samþáttun
 
 Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþáttunina.
 
