@@ -7,11 +7,11 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrirkerfum.
 #### Verklag.
 Þegar þú byrjar á verkefni þá:
-1. opnar þú **Git Bash** umsjónarkerfið 
+1. opnar þú **Git Bash** CLI 
 2. stofnar geymslu (_**repository**_) sem heldur utan um verkefnið
 3. lætur Git vakta verkferlið 
 
-#### [Yfirlit yfir hesltu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
+[Yfirlit yfir hesltu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
 
 #### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
 
@@ -33,8 +33,11 @@ Hvað gera svo þessar skipanir
 3. **git add .**  Git skrásetur stöðu verkefnisins á þessum tímapunkti það má kalla það sviðsetningu.
 4. **git commit -m "útskýring"** Til að geta skoðað stöðuna síðar verður útskýring að fylgja sviðsetningunni.
 5. Hér er "Geymsla.git" vísað á GitHub reikning þinn
-6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður *-u origin master* að fylgja með. 
-Eftir fyrstu færslu er hægt að senda gögn á milli vinnusvæðis og GitHub með því að nota *git push* = senda gögn og *git pull* = sækja gögn. 
+6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður **-u origin master** að fylgja með. 
+
+Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið ``` cd H:/Vef2/geymsla/ ``` . Síðan er farið að vinna í verkefninu. Git fylgist með allri textavinnslu og breytingum á textaskjölum. Með skráningunni ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` í Git skráum við stöðu verksins sem við eru að vinna að og Git býr til tímamót. 
+Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
+Eftir fyrstu færslu er hægt að senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. 
 
 #### Geymsla búin til á GitHub og afrituð á vinnusvæði
  - Git clone
@@ -45,10 +48,8 @@ Hér að neðan er upptalning á helstu Git skipunum sem notaðar eru við samþ
 
 > $ git [add] [commit] [status] [push] [pull] [log] [diff] [branch] [merge]
 
-Með skráningunni ``` $ git add .' ``` og ``` $ git commit -m 'lýsing...' ``` í Git skráum við stöðu verksins sem við eru að vinna að og Git býr til tímamót. 
-Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, byrjað aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein _(branch)_, hann getur síðan þróast samhliða upprunalegum kóða. Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
 
-[Sjá yfirlit yfir helstu Git skipanir hér](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/github-git-cheat-sheet.pdf)
+
 
 https://try.github.io/levels/1/challenges/1
 
