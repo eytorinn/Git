@@ -21,7 +21,9 @@ Dæmi: ``` $ https://github.com/ÞínGeymsla/Git-aefingaverkefni.git ```
 	https://vefhonnun.github.io/Git-aefingaverkefni/
 
 Yfirlit
-*	[Afritun og speglun](afritun.md)
-*	[Ágreiningur](ágreiningur.md)
+*	[Kynning](README.md)
+*   [Unnið með GIT](Git.md)
+*   [GIT hópverkefnavinna](Hópverkefnavinna.md)
+*	[Ágreiningur](Ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
