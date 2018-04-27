@@ -19,12 +19,12 @@ Git býður upp á möguleika að vera með margar útgáfur af sama kóða. Dæ
 
 Til að sameina greinar þá þarftu að vera á þeirri grein sem verður eftir t.d.
 * ```git checkout master```
-* ```git merge grein1```
+* ```git merge grein1``` greinin er sameinuð "master"
 
 Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
 
 Til að eyða grein þá þarftu að vera á "master"
-* ```git -d grein1```
+* ```git -d grein1``` greininni er eytt, það hefur ekki áhrif á stöðu "master" eða annara greina.
 
 Bjargir:
 * [Yfirlit yfir helstu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
