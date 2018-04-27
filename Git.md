@@ -45,7 +45,7 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 * Það er mikilvægt að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
 * Spegla (*clone*) geymsluna yfir á vinnusvæði þitt.
 * [Speglun lýst myndrænt hér](Lesefni/UppsetningGithubGeymslu.pdf)
-
+Einnig er fjallað um 
 #### Yfirlit
 * [Kynning](README.md)
 * [Git umsjón og samþáttun](Umsjón.md)
