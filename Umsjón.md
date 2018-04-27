@@ -27,9 +27,9 @@ Til að eyða grein þá þarftu að vera á "master"
 * ```git -d grein1``` greininni er eytt, það hefur ekki áhrif á stöðu "master" eða annara greina.
 
 Bjargir:
-* [Yfirlit yfir helstu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
-* http://guides.beanstalkapp.com/version-control/common-git-commands.html
 * https://try.github.io/levels/1/challenges/1
+* http://guides.beanstalkapp.com/version-control/common-git-commands.html
+* [Listi yfir helstu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
 
 #### Yfirlit
 * [Unnið með GIT](Git.md)
