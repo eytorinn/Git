@@ -1,7 +1,7 @@
 # Git umsjón og samþáttun
 
 #### Git add [filename]
-Efir að hafa opnað **Git Bash** og vísað á Git geymslu þá fylgist forritið með allri textavinnslu og breytingum á þeim. Skipanirnar ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` afrita stöðu verksins og Git býr til tímamót sem hægt er að fara á síðar. 
+Efir að hafa opnað **Git Bash** og vísað á Git geymslu þá fylgist forritið með allri textavinnslu og breytingum á þeim. Skipanirnar ```$ git add [heiti skjals]'``` og ```$ git commit -m 'lýsing...' ``` afrita stöðu verksins og Git býr til tímamót sem hægt er að fara á síðar. Þessi aðgerð er kölluð **sviðsetning** (*staging*). Skipunin ```$ git add **.**```  tekur allar skrár sem hafa verið breytt eða bætt við á vinnusvæðinu
 #### Git Commit -m ´Lýsing verkþáttar'
 Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, þá skiptir máli hvað var skráð í *commit* skipunina svo hægt sé að byrja aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein (*branch*), hann getur síðan þróast samhliða upprunalegum kóða og á einhverjum tímapunkti sameinaður (*merge*) aðalgreininni sem nefnd er **"Master"**. 
 #### Tímaflakk
