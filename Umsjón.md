@@ -1,10 +1,9 @@
 # Git umsjón og samþáttun
 
-> í vinnslu .......
 #### Git add [filename]
 Efir að hafa opnað **Git Bash** og vísað á Git geymslu þá fylgist forritið með allri textavinnslu og breytingum á þeim. Skipanirnar ```$ git add .'``` og ```$ git commit -m 'lýsing...' ``` afrita stöðu verksins og Git býr til tímamót sem hægt er að fara á síðar. 
 #### Git Commit -m ´Lýsing verkþáttar'
-Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, þá skiptir máli hvað var skráð í *commit* skipunina svo hægt sé að byrja aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein (*branch*), hann getur síðan þróast samhliða upprunalegum kóða og á einhverjum tímapunkti sameinaður (*merge*)aðalgreininni sem nefnd er **"Master"**. 
+Eftir nokkrar skráningar höfum við myndað tímalínu og þá er hægt að fara í gegnum allt vinnuferlið, þá skiptir máli hvað var skráð í *commit* skipunina svo hægt sé að byrja aftur á öðrum tímapunkti og tekið aðra stefnu með kóðann á nýrri grein (*branch*), hann getur síðan þróast samhliða upprunalegum kóða og á einhverjum tímapunkti sameinaður (*merge*) aðalgreininni sem nefnd er **"Master"**. 
 #### Tímaflakk
 Til að skoða tímalínuna þá er ```git log``` skipunin notuð. Með hverri vistun fylgir skýring (*commit -m*) sem þú skráðir ásamt langri talnarunu **"04c98c7b7744c9c6e23ba28a302710513805e89a"**. Það er þessi talnaruna sem vísað er í til að komast aftur á tiltekin stað í verkferlinu. Til að komast síðan út úr log glugganum er nóg að ýta á "CTRL" + "Q". Til að fara til baka með allt verkferlið þá er skipunin ```git checkout 04c98c7b77``` Það þarf ekki að nota alla talnarununa til að Git finni rétta færslu.
 #### Greinar í Git (_Branches_)
