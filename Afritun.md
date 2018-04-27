@@ -14,7 +14,7 @@
 ### Sameiginleg geymsla _(repository)_
 
 * Í _"Git Bash"_ er geymslan spegluð _**„Git clone“**_ yfir á tölvur hópsins þannig að allir eru með eigin útgáfu af henni. <br>
-Dæmi: ``` $ https://github.com/ÞínGeymsla/Git-aefingaverkefni.git ``` 
+Dæmi: ```$ https://github.com/ÞínGeymsla/Git-aefingaverkefni.git``` 
 	*	[Í möppunni "docs"](docs/) er vefsíða og stílsíða. Nemendur eiga að búa til fjórar greinar **_(branch)_** þar sem vefsíðan er með nýju stílsniði á hverri grein. 
 	*	Farið eftir leiðbeiningum hér í ["Vefsíða tengd GitHub geymlsu.pdf"](Lesefni/Vefsíða%20tengd%20GitHub%20geymslu.pdf) og tengið vefsíðuna í docs möppunni við GitHub geymsluna.
 	* 	Setjið tengil í README.md skrána sem vísar á vefinn eins og hér er sýnt.
