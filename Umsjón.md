@@ -23,6 +23,9 @@ Til að sameina greinar þá þarftu að vera á þeirri grein sem verður eftir
 
 Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í einu skjali en það er skynsamlegt að hafa þær fáar og blanda saman kóðanum reglulega _(merge)_ við upprunalega útgáfu _(master)_ eða eyða útgáfum sem eru ekki að ganga upp. 
 
+Til að eyða grein þá þarftu að vera á master
+* ```git -d grein1```
+
 Sjá nánar á:
 * [Yfirlit yfir helstu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
 * http://guides.beanstalkapp.com/version-control/common-git-commands.html
