@@ -1,5 +1,5 @@
 # Ágreiningur _(conflict)_
-Æfingaverkefni :running:
+Æfingaverkefni :running: :running:
 
 Það er óhjákvæmilegt í hópverkavinnu að upp komi sú staða að tvær útgáfur séu til af sama skjali. Git kemur í veg fyrir að skjöl séu yfirrituð og sýnir þess í stað ósamræmið sem er í kóða og eða texta. Til að forðast árekstra þá er það góð vinnubrögð að byrja vinnudaginn á því að tjékka hvort (_local_) heimaútgáfan sé ekki með síðustu útgáfu verksins með skipuninni ``` $ git pull ``` af GitHub geymslunni, ef allt er í lagi kemur m.a. eftirfarandi skilaboð ``` working tree is clear, nothing to commit ```  
 Ef sú staða kemur upp að tvær útgáfur eru til af sama skjali, þá sýnir git báðar útgáfurnar í Git Bash. Til að lagafæra skjölin þarf að sækja útgáfuna sem er á github ``` $ git pull ``` síðan bæta henni við local útgáfuna ``` git add . ``` og tilgreina vandræðin ``` $ git commit -m 'ágreiningur í texta' ``` þá erum við með báðar útgáfurnar heima og getum lagfært skjalið.
@@ -26,9 +26,8 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 :collision: - Ef ekki er hægt að leysa ágreining með einföldum hætti þá er hægt að stöðva Git vinnsluna (*"goddamn idiotic truckload of :shit: when it breaks*)
 > Ýtið á **ESC** og skrifið **:q!** ýtið síðan á **ENTER**.
 
-#### Æfingaverkefni
+#### Æfingaverkefni :running: :running:
 *	[Afritun og speglun](Afritun.md)
-
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
 
