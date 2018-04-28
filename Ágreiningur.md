@@ -24,7 +24,7 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 ``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
 :collision: - Ef ekki er hægt að leysa ágreining með einföldum hætti þá er hægt að stöðva Git vinnsluna (*"goddamn idiotic truckload of :shit: when it breaks*)
-> Ýtið á **ESC** og srifið **:q!** ýtið síðan á **ENTER**.
+> Ýtið á **ESC** og skrifið **:q!** ýtið síðan á **ENTER**.
 
 Yfirlit
 *   [Kynning](README.md)
