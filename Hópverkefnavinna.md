@@ -8,6 +8,7 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 Þegar nemendur vinna saman í hópverkefni þá er skynsamlegt að spegla **„Git clone“** geymsluna yfir á tölvur þátttakenda þannig að allir hafa sitt eintak af verkefninu. Sá sem stofnar geymsluna gefur félögum sínum [aðgang að geymslunni](Lesefni/Samstarf á GitHub.pdf). Git sér síðan um samræmingu gagna þannig að ekkert ósamræmi er í gögnum og ekki er hægt að yfirrita gömul skjöl yfir ný. Til að nemendur geti unnið saman í einni geymslu þá verður stofnandi geymslunnar að veita aðgang að henni [sjá nánar hér.](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/Samstarf%20%C3%A1%20GitHub.pdf) Síðan geta allir uppfært og sent efni í sömu geymslu á GitHub. 
 
 :octocat: :octocat: :octocat: :octocat:
+
 Í allri hópverkavinnu á tölvubraut **á að nota GIT útgáfustjórnun** og vakta verkefnin á meðan unnið er í þeim. Þegar unnið er í hópverkefnum á að byrja á því að bera saman og ná í síðustu útgáfu verksins á GitHub ```$ git pull. ``` síðan á að skrá vinnuferlið reglulega  í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnudags ```$ git push. ``` .
 
 ### Æfingaverkefni
