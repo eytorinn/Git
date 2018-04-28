@@ -14,11 +14,13 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 1. opnar þú **Git Bash** CLI 
 2. stofnar geymslu (_**repository**_) sem heldur utan um verkefnið
 3. lætur Git vakta vinnuferlið 
+
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipunina. 
 
-Hvar á geymslan að vera á tölvunni? ```cd``` er CLI skipun og stendur fyrir *"Change Directory"*
-Dæmi: 
-* ```cd Desktop/``` Þá verður geymsla búin til á skrifborði tölvunnar. 
+* Hvar á geymslan að vera á tölvunni? 
+	* ```cd``` er CLI skipun og stendur fyrir *"Change Directory"*
+* Dæmi: 
+	* ```cd Desktop/``` Þá verður geymsla búin til á skrifborði tölvunnar. 
 
 ```
 $ echo "# Geymsla" >> README.md
