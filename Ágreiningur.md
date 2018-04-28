@@ -28,6 +28,7 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 
 #### Æfingaverkefni
 *	[Afritun og speglun](Afritun.md)
+
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
 
