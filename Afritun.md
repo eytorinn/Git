@@ -1,5 +1,5 @@
-# Hópverkefnavinna
-Æfingaverkefni
+# Afritun og speglun
+Æfingaverkefni :running:
 
 ### Á Github geta nemendur:
 * stofnað sameiginlega geymslu e. _"repository"_ um verkefni
@@ -19,10 +19,14 @@ Dæmi: ```$ https://github.com/ÞínGeymsla/Git-aefingaverkefni.git```
 	*	Farið eftir leiðbeiningum hér í ["Vefsíða tengd GitHub geymlsu.pdf"](Lesefni/Vefsíða%20tengd%20GitHub%20geymslu.pdf) og tengið vefsíðuna í docs möppunni við GitHub geymsluna.
 	* 	Setjið tengil í README.md skrána sem vísar á vefinn, dæmi:	https://vefhonnun.github.io/Git/
 
-Yfirlit
-*	[Kynning](README.md)
-*   [Unnið með GIT](Git.md)
-*   [GIT hópverkefnavinna](Hópverkefnavinna.md)
+#### Æfingaverkefni
 *	[Ágreiningur](Ágreiningur.md)
 *	[Lesefni til stuðnings verkefninu](Lesefni/)
 *	[Bjargir](Bjargir.md)
+
+#### Yfirlit
+* [Kynning](README.md)
+* [Unnið með GIT](Git.md)
+* [Git umsjón og samþáttun](Umsjón.md)
+* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+* [Bjargir](Bjargir.md)
