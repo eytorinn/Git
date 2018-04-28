@@ -4,9 +4,10 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 
 Þegar unnið er í textaskjali eða kóða er allt vinnuferlið skráð reglulega í Git. Til verksins notum við **Git Bash** skipanalínuviðmótið (_CLI_) í Windows stýrikerfum. Git Bash fylgir með Git hugbúnaðinum. Í Mackintosh og Linux kerfum heitir skipanalínuviðmótið **"Terminal"**  og er til staðar í stýrikerfunum. Það sem *Git Bash* gerir m.a. er að túlka Linux skipanir yfir í Windows skipanir . Það auðveldar okkur vinnuna við umsjónarkerfið að nota aðeins eitt skipanakerfi óháð stýrikerfum.
 
-#### Verklag :octocat:
-* Stofna reikning á **GitHub**.
-Þegar reikningur er stofnaður á GitHub þá er staðfesting send á tölvupóstfangið sem tilgreint er í umsókninni. Eftir að hafa staðfest umsóknina þá er hægt að nota github reikningin til að búa til geymslur, afrita geymslur frá öðrum og verið í samstarfi við aðra notendur á GitHub. 
+#### Verklag 
+* Stofna reikning á [GitHub](https://github.com/) :octocat:
+   	* Þegar reikningur er stofnaður á GitHub þá er staðfesting send á tölvupóstfangið sem tilgreint er í umsókninni. 
+   	* Eftir að hafa staðfest umsóknina þá er hægt að nota github reikningin til að búa til geymslur, afrita geymslur frá öðrum og verið í samstarfi við aðra notendur á GitHub. 
 
 #### Geymsla búin til á vinnusvæði (_local_) og færð yfir á GitHub
 Þegar þú byrjar á verkefni þá:
