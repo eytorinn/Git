@@ -19,8 +19,10 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 * [Lesefni til stuðnings verkefninu](Lesefni/)
 * [Bjargir](Bjargir.md)
 
-Yfirlit
-* [GIT kynning](README.md)
+#### Yfirlit
+* [Unnið með GIT](Git.md)
+* [Git umsjón og samþáttun](Umsjón.md)
+* [Bjargir](Bjargir.md)
 <!--
 ### Námsmat:
 *	Fjórar greinar af vefsíðu unnar af báðum nemendum (2x2). 
