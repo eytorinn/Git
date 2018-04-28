@@ -45,9 +45,9 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 #### Verklag
 * Búa til geymslu á GitHub reikning -> [**New repository**]
 * Það er mikilvægt að haka við **"Create repository with README.md"** einnig er skynsamlegt að velja **.gitignore** og **Licence** í leiðinni,
-* Spegla (*clone*) geymsluna yfir á vinnusvæði þitt.
-* [Speglun lýst myndrænt hér](Lesefni/UppsetningGithubGeymslu.pdf)
-Einnig er fjallað um 
+* Spegla (*clone*) geymsluna yfir á vinnusvæði þitt
+	* [Speglun lýst myndrænt hér](Lesefni/UppsetningGithubGeymslu.pdf)
+	* Þar er einnig sýnt hvernig hægt er að senda og sækja gögn (*push/pull*) 
 #### Yfirlit
 * [Kynning](README.md)
 * [Git umsjón og samþáttun](Umsjón.md)
