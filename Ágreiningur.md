@@ -23,6 +23,7 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 
 ``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
+:angry: - "goddamn idiotic truckload of sh*t": when it breaks
 Ef ekki er hægt að leysa ágreining með einföldum hætti þá er hægt að stöðva Git vinnsluna
 > Ýtið á **ESC** og srifið **:q!** ýtið síðan á **ENTER**.
 
