@@ -1,4 +1,4 @@
-![Git útgáfustjórnun](https://github.com/vefhonnun/img/Git-logo.svg)
+![Git útgáfustjórnun](https://github.com/vefhonnun/git/img/Git-logo.svg)
 # Git útgáfustjórnun 
 _Git version control system_ :+1:
 
