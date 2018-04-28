@@ -7,7 +7,7 @@ Ef sú staða kemur upp að tvær útgáfur eru til af sama skjali, þá sýnir 
 ```
 <<<<<<< HEAD
 ### Dæmi
-í vinnslu .... þessi local útgáfa er gömul og lúinn .. :o
+í vinnslu .... þessi local útgáfa er gömul og lúinn .. :cry:
 =======
 ### Dæmi 
 í vinnslu .... Hér set ég texta beint í GitHub geymsluna vitandi að þessi texti 
@@ -23,8 +23,7 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 
 ``` git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w" ```
 
-:angry: - "goddamn idiotic truckload of sh*t": when it breaks
-Ef ekki er hægt að leysa ágreining með einföldum hætti þá er hægt að stöðva Git vinnsluna
+:angry: - Ef ekki er hægt að leysa ágreining með einföldum hætti þá er hægt að stöðva Git vinnsluna ("goddamn idiotic truckload of sh*t": when it breaks :collision:)
 > Ýtið á **ESC** og srifið **:q!** ýtið síðan á **ENTER**.
 
 Yfirlit
