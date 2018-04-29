@@ -5,7 +5,7 @@
 1. Opnið *Git Bash* og vísið á geymsluna sem á að vakta, dæmi:  ```cd Desktop/geymsla/``` . 
 2. Í byrjun dags á ```git pull``` að vera fyrsta skipun sem gerð er í geymslunni, það tryggir að þú sért að vinna með nýjustu útgáfu verksins. 
 3. Síðan er hægt að vinna í verkefninu og senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. 
-4. Í lok vinnudags á alltaf að senda verkefnið í GitHub geymluna með skipuninni ```git push``` 
+4. Í lok vinnudags á alltaf að senda verkefnið í GitHub geymsluna með skipuninni ```git push``` 
 
 > Búið til nýtt textaskjal sem á að vista sem *Markdown* skjal (t.d. Gitsvör.md). Svarið spurningunum hér að neðan með eftrifarndi hætti:
 
@@ -17,18 +17,18 @@
 > ATH! Ekkert er gefið fyrir svörin ef færslurnar (*commit*) fylgja ekki með.
 
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd -
-	ls -
-	pwd -
-	mkdir -
+	* cd -
+	* ls -
+	* pwd -
+	* mkdir -
 2. Hvað gera eftirfarandi Git skipanir?
-	git clone
-	git status
-	git diff
+	* git clone
+	* git status
+	* git diff
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
-	git log
-	git checkout
-	git branch
+	* git log
+	* git checkout
+	* git branch
 4. 	Hvað er útgáfustýring (e.version control)? 
 5.	Hverjir eru helstu kostir við að nota GIT?
 6.	Hversu oft telur þú að eigi að gera færslur *commit* í verkefni?
