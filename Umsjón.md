@@ -26,6 +26,9 @@ Engin takmörk eru fyrir því hversu margar greinar geta verið í gangi í ein
 Til að eyða grein þá þarftu að vera á "master"
 * ```git -d grein1``` greininni er eytt, það hefur ekki áhrif á stöðu "master" eða annara greina.
 
+### Æfingaverkefni :running: :running:
+* [Git vinnuferlið](Vinnuferli.md)
+
 Bjargir:
 * https://try.github.io/levels/1/challenges/1
 * http://guides.beanstalkapp.com/version-control/common-git-commands.html
