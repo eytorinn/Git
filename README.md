@@ -7,7 +7,7 @@ _Git version control system_ :+1:
 * [Saga Git (wiki)](https://en.wikipedia.org/wiki/Git)
 * [Staða GitHub 2017](https://octoverse.github.com/)
 #### Yfirlit
-* [Kynning]
+* Git útgáfustjórnun
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
 * [GIT hópverkefnavinna](Hópverkefnavinna.md)
