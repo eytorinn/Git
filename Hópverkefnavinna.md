@@ -13,7 +13,6 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 
 ### Æfingaverkefni :running: :running:
 * [Afritun og speglun](Afritun.md)
-* [Ágreiningur](Ágreiningur.md)
 
 #### Ýtarefni
 * [Lesefni til stuðnings verkefninu](Lesefni/)
