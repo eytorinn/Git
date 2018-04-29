@@ -51,6 +51,16 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 	* [Speglun lýst myndrænt hér](Lesefni/UppsetningGithubGeymslu.pdf)
 	* Þar er einnig sýnt hvernig hægt er að senda og sækja gögn (*push/pull*) 
 
+#### Listi yfir Linux skipanir sem hægt er að nota í Git Bash 
+* ```pwd``` *print working directory* Sýnir staðsetningu Git Bash
+* ```ls```  *list items* Sýnir öll gögn í viðkomandi möppu
+* ```cd```  *change directory* Skipt um staðsetningu
+* ```cd  mappa1/``` Farið ofaní möppu 1
+* ```cd  mappa1/mappa2``` Farið ofaní möppu 2 sem er inn í möppu 1
+* ```../``` Farið upp úr möppu
+* ``` ../../``` Farið upp úr 2 möppum
+* ```..```  Farið uppúr öllum möppum [User]
+
 #### Yfirlit
 * [Kynning](README.md)
 * [Git umsjón og samþáttun](Umsjón.md)
