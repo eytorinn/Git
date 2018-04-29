@@ -1,13 +1,14 @@
 # Git vinnuferlið
 
-#### Æfingaverkefni :running: :running:
+### Æfingaverkefni :running: :running:
 
-Listi yfir Git Bash skipanir 
-* ```pwd```
-* ```ls```
-* ```cd``` 
-* ```../``` [mappa/skrá]
-* ```..```  [rótin]
+Listi yfir Git Bash (GB) skipanir 
+* ```pwd``` *print working directory* Sýnir staðsetningu GB
+* ```ls```  *list items* Sýnir öll gögn í viðkomandi möppu
+* ```cd```  *change directory* Skipt um staðsetningu
+* ```/mappa/``` Farið ofaní möppu
+* ```../``` Farið upp úr möppu
+* ```..```  Farið uppúr öllum möppum [User]
 
 [Listi yfir Linux skipanir]
 
@@ -16,9 +17,9 @@ Listi yfir Git Bash skipanir
 3. Síðan er hægt að vinna í verkefninu og senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. 
 4. Í lok vinnudags á alltaf að senda verkefnið í GitHub geymluna með skipuninni ```git push``` 
 
-
-
 Sjá nánar á [Git umsjón](Umsjón.md).
+
+Verkefnið ..... í vinnslu;
 
 
 #### Yfirlit
