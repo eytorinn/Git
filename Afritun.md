@@ -21,8 +21,7 @@ Dæmi: ```$ https://github.com/ÞínGeymsla/Git-aefingaverkefni.git```
 
 #### Æfingaverkefni :running: :running:
 *	[Ágreiningur](Ágreiningur.md)
-*	[Lesefni til stuðnings verkefninu](Lesefni/)
-*	[Bjargir](Bjargir.md)
+
 
 #### Yfirlit
 * [Kynning](README.md)
