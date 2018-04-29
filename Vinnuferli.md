@@ -34,6 +34,10 @@
 6.	Hversu oft telur þú að eigi að gera færslur (*commit*) í verkefni?
 7.	Hvað er átt við með *"Working directory"*?" og *"Staging area"* í GIT?
 
+#### Æfingaverkefni :running: :running:
+* Git vinnuferlið
+* [Git greinar](Greinar.md)
+
 #### Yfirlit
 * [Kynning](README.md)
 * [Unnið með GIT](Git.md)
