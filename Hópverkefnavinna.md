@@ -23,6 +23,7 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 * [Kynning](README.md)
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
+* GIT hópverkefnavinna
 * [Bjargir](Bjargir.md)
 <!--
 ### Námsmat:
