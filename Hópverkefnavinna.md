@@ -25,12 +25,3 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 * [Git umsjón og samþáttun](Umsjón.md)
 * GIT hópverkefnavinna
 * [Bjargir](Bjargir.md)
-<!--
-### Námsmat:
-*	Fjórar greinar af vefsíðu unnar af báðum nemendum (2x2). 
-*	Vefsíða á að vera tengd geymslunni sbr. verklýsinguna hér að ofan.
-
-#### Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub. Ef skráningarsagan (commits) fylgir ekki með þá er engin einkun gefin fyrir verkefnið.  
-
-> Verkefnaskil: setjið tengil sem vísar á GitHub geymsluna í _'Athugasemdir'_ **í Innu**. 
--->
