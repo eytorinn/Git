@@ -11,7 +11,7 @@
 
 * Eftir að hafa svarað 1. spurningu á að vista skjalið
 * Síðan á að sviðsetja það í Git (add .) og skrá (commit -m 'svar 1'). 
-* Eftir að hafa svarað öllum spurningunum með þessum hætti erum við komin með 10 færslur í Git umsjónarkerfið. 
+* Eftir að hafa svarað öllum spurningunum með þessum hætti erum við komin með 7 færslur í Git umsjónarkerfið. 
 * Skilaðu skjalinu með svörunum á **þinn GitHub reikning**
 
 > ATH! Ekkert er gefið fyrir svörin ef færslurnar (*commit*) fylgja ekki með.
@@ -31,10 +31,8 @@
 	* git branch
 4. 	Hvað er útgáfustýring (e.version control)? 
 5.	Hverjir eru helstu kostir við að nota GIT?
-6.	Hversu oft telur þú að eigi að gera færslur *commit* í verkefni?
+6.	Hversu oft telur þú að eigi að gera færslur (*commit*) í verkefni?
 7.	Hvað er átt við með *"Working directory"*?" og *"Staging area"* í GIT?
-
-
 
 #### Yfirlit
 * [Kynning](README.md)
