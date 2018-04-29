@@ -39,5 +39,6 @@ Bjargir:
 #### Yfirlit
 * [Kynning](README.md)
 * [Unnið með GIT](Git.md)
+* Git umsjón og samþáttun
 * [GIT hópverkefnavinna](Hópverkefnavinna.md)
 * [Bjargir](Bjargir.md)
