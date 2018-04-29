@@ -26,7 +26,7 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 :collision: - Ef ekki er hægt að leysa ágreining með einföldum hætti þá er hægt að stöðva Git vinnsluna 
 > Ýtið á **ESC** og skrifið **:q!** ýtið síðan á **ENTER**.
 
-.. eða eins og Linus sagði eitt sinn þegar hann reyndi að útskýra hvað GIT stæði fyrir: <br> *"Goddamn Idiotic Truckload of :shit: when it breaks*
+.. eða eins og Linus sagði eitt sinn þegar hann reyndi að útskýra hvað GIT stæði fyrir: <br> *"Goddamn Idiotic Truckload of :shit: when it breaks"*
 
 #### Æfingaverkefni :running: :running:
 *	[Samvinna með GIT](Samvinna.md)
