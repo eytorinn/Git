@@ -13,8 +13,9 @@ Til að skoða tímalínuna þá er ```git log``` skipunin notuð. Með hverri v
 * Til að fara yfir á grein er skipunin ```git checkout [heiti greinar]``` notuð.
 
 Git býður upp á möguleika að vera með margar útgáfur af sama kóða. Dæmi: þú vilt búa til nýja útgáfu af kóða sem þú ert að vinna í en byrja þar sem þú varst staddur 2 dögum fyrr. 
-
-* ```git checkout 04c98c7b774``` -> Færir þig á eldri útgáfu af "master"
+* ```git log``` Git birtir lista með öllum færslum (*commits*). Veldu fyrstu 7 tölurnar úr þeirri talnarunu sem passar við færsluna sem þú vilt komast á.
+*	ýttu á takkann "q" til að komast úr listanum
+* ```git checkout 04c98c7``` -> Færir þig á eldri útgáfu af "master"
 * ```git branch grein1``` -> býr til nýja útgáfu af kóðanum sem gerð var 2 dögum fyrr, hér getur þú tekið aðra stefnu með kóðann.
 
 Til að sameina greinar þá þarftu að vera á þeirri grein sem verður eftir t.d.
@@ -28,6 +29,7 @@ Til að eyða grein þá þarftu að vera á "master"
 
 ### Æfingaverkefni :running: :running:
 * [Git vinnuferlið](Vinnuferli.md)
+* [Git greinar](Greinar.md)
 
 Bjargir:
 * https://try.github.io/levels/1/challenges/1
