@@ -1,16 +1,22 @@
 # Samvinna með GIT
 
-### Æfingaverkefni :running: :running: 
+### Hópverkefni :running: :running: 
 
 #### Verklag:
-* Eftir að hafa myndað hóp þá stofnar **einn** úr hópnum geymslu (_repository_) **á GitHub**
-* Síðan deilir hann aðgangi að geymslunni, með því að bæta við notendum (_Settings - Collaborators_) með sömu réttindum og hann sjálfur hefur í geymslunni. 
-* Notendur _contributors_ fá sendan póst á tölvupóstfangið sem tengt er þeirra Github reikningi. Þeir samþykkja boðið og geta eftir það breytt og bætt efni í umræddri geymslu. 
+* Eftir að hafa myndað hóp þá stofnar **einn** úr hópnum, geymslu (_repository_) **á GitHub**
+	* Síðan deilir hann aðgangi að geymslunni, með því að bæta við notendum (_Settings - Collaborators_) með sömu réttindum og hann sjálfur hefur í geymslunni. 
+	* Notendur _contributors_ fá sendan póst á tölvupóstfangið sem tengt er þeirra Github reikningi. Þeir samþykkja boðið og geta eftir það breytt og bætt efni í umræddri geymslu. 
+	* [sjá nánar í lesefni/Samstarf](Lesefni/Samstarf%20á%20GitHub.pdf)
+* Sameiginlegri geymslu deilt á notendur
+	* Í _"Git Bash"_ er geymslan spegluð _**„Git clone“**_ yfir á tölvur hópsins þannig að allir eru með eigin útgáfu af henni. 
+* Hópurinn skipuleggur alla verkþætti og verkskiptingu
+	* Geymslan á GitHub er miðstöð verksin og á alltaf að vera endurnýjuð reglulega
+	* Allir byrja að að tjékka á GitHub útgáfunni ```Git pull```
+	* Og enda vinnudaginn á ```Git push```
+	* Öll vinnugögn hópverkefnisins eiga að vera í þessari geymslu á Github
 
-#### Sameiginlegri geymslu deilt á notendur
-* Í _"Git Bash"_ er geymslan spegluð _**„Git clone“**_ yfir á tölvur hópsins þannig að allir eru með eigin útgáfu af henni. 
-* Öll vinnugögn hópverkefnisins eiga að vera í þessari geymslu á Github
-* [sjá nánar í lesefni/Samstarf](Lesefni/Samstarf%20á%20GitHub.pdf)
+#### Verkefnalýsing 
+
 
 #### Vefsíða tengd Github geymslunni
 *	Farið eftir leiðbeiningum hér í ["Vefsíða tengd GitHub geymlsu.pdf"](Lesefni/Vefsíða%20tengd%20GitHub%20geymslu.pdf) og tengið vefsíðuna í docs möppunni við GitHub geymsluna.
