@@ -42,7 +42,7 @@ Hvað gera svo þessar skipanir
 Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið, dæmi:  ```cd Desktop/geymsla/``` . Síðan er hægt að vinna í verkefninu og senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. Sjá nánar á [Git umsjón](Umsjón.md).
 
 #### Geymsla búin til á GitHub og spegluð (*clone*) á (*local*) vinnusvæði :two_men_holding_hands:
-Í Upplýsingatækniskólanum eru allir að vinna á innra neti skólans og milli þess og internetsins er *eldveggur*. Það þýðir að ekki er hægt að stofna geymslu á H: drifinu og senda síðan á GitHub eins og lýst er hér að ofan. Ástæðan er að GitHub miðlarinn getur ekki sótt nauðsynlegar upplýsingar um sendandann, (*öll sund eru lokuð*). Lausnin á vandamálinu er einföld. Við byrjum á því að stofna geymsluna á GitHub og afritum hana síðan yfir á vinnusvæðið okkar á H: drifinu. Github miðlarinn hefur þá allar upplýsingar um geymsluna og er ekki að flækjast fyrir.
+Í Upplýsingatækniskólanum eru allir að vinna á innra neti skólans og milli þess og internetsins er *eldveggur*. Það þýðir að ekki er hægt að stofna geymslu á H: drifinu og senda síðan á GitHub eins og lýst er hér að ofan. Ástæðan er að GitHub miðlarinn getur ekki sótt nauðsynlegar upplýsingar um sendandann, (*öll sund eru lokuð*). Lausnin á vandamálinu er einföld. Við byrjum á því að stofna geymsluna á GitHub og speglum (*clone*) hana síðan yfir á vinnusvæðið okkar á H: drifinu. Github miðlarinn hefur þá allar upplýsingar um geymsluna og er ekki að flækjast fyrir.
 
 #### Verklag
 * Búa til geymslu á GitHub reikning -> [**New repository**]
