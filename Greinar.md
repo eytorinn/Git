@@ -8,7 +8,7 @@ Nú höldum við áfram með skjalið sem þú bjóst til (Git_svör.md)
 5. Farðu yfir á greinina ```git checkout [heiti greinar]```
 	* Bættu við eftirfarandi texta aftan við 5. svarið
 	<pre>Á nýju greininn minni get ég sagt mína skoðun á Git Umsjónarkerfinu...<br> .. **bættu við þínu áliti hér**  </pre>
-6. Sendu nýju greinina yfir á GitHub :wink:
+6. Sendu nýju greinina yfir á GitHub*
 7. Farðu síðan aftur á *master*
 
 :wink: Til að senda greinina yfir á GitHub þarf að skrá eftirfarandi kóða  
@@ -29,5 +29,5 @@ Bjargir:
 * [Kynning](README.md)
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Samþáttun.md)
-* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+* [GIT samvinna](Samvinna.md)
 * [Bjargir](Bjargir.md)
