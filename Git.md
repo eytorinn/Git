@@ -40,7 +40,7 @@ Hvað gera svo þessar skipanir
 3. **git add .**  Git skrásetur stöðu verkefnisins á þessum tímapunkti það má kalla það sviðsetningu.
 4. **git commit -m "útskýring"** Til að geta skoðað stöðuna síðar verður útskýring að fylgja sviðsetningunni.
 5. **git remote add origin** Hér er "Geymsla.git" vísað á GitHub reikning þinn
-6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður **-u origin master** að fylgja með. 
+6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður **-u origin master** að fylgja með **git push**. 
  
 Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið, dæmi:  ```cd Desktop/geymsla/``` . Síðan er hægt að vinna í verkefninu og senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. Sjá nánar á [Git umsjón](Umsjón.md).
 
