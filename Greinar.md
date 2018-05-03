@@ -12,7 +12,7 @@ Nú höldum við áfram með skjalið sem þú bjóst til (Git_svör.md)
 7. Farðu síðan aftur á *master*
 
 :wink: Til að senda greinina yfir á GitHub þarf að skrá eftirfarandi kóða  
-```git push -u origin master [heiti greinar]```
+```git push -u origin [heiti greinar]```
 
 #### Æfingaverkefni :running: :running:
 * [Git vinnuferlið](Vinnuferli.md)
