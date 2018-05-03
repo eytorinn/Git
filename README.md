@@ -10,5 +10,5 @@ _Git version control system_ :+1:
 * Git útgáfustjórnun
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
-* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+* [GIT samvinna](Samvinna.md)
 * [Bjargir](Bjargir.md)
