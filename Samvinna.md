@@ -9,13 +9,10 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 
 :octocat: :octocat: :octocat: :octocat:
 
-Í allri hópverkavinnu á tölvubraut **á að nota GIT útgáfustjórnun** og vakta verkefnin á meðan unnið er í þeim. Þegar unnið er í hópverkefnum á að byrja á því að bera saman og ná í síðustu útgáfu verksins á GitHub ```$ git pull. ``` síðan á að skrá vinnuferlið reglulega  í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnudags ```$ git push. ``` .
+Í allri hópverkavinnu á tölvubraut **á að nota GIT útgáfustjórnun** og vakta verkefnin á meðan unnið er í þeim. Þegar unnið er í hópverkefnum á að byrja á því að bera saman og ná í síðustu útgáfu verksins á GitHub ```$ git pull. ``` síðan á að skrá vinnuferlið reglulega  í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnudags ```$ git push``` 
 
 ### Æfingaverkefni :running: :running:
 * [Hópverkefnavinna](Hópverkefnavinna.md)
-
-#### Ýtarefni
-* [Bjargir](Bjargir.md)
 
 #### Yfirlit
 * [Kynning](README.md)
