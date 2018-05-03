@@ -68,5 +68,5 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 * [Kynning](README.md)
 * Unnið með GIT
 * [Git umsjón og samþáttun](Umsjón.md)
-* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+* [Samvinna með GIT](Samvinna.md)
 * [Bjargir](Bjargir.md)

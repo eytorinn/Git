@@ -1,50 +1,25 @@
 # Samvinna með GIT
 
-### Hópverkefni :running: :running: 
+Git er hannað til að halda utanum verkefni með dreifðri útgáfustjórn _(Distribute Version Control)_. Það þýðir að þátttakendur í hópverkefni eru allir með eintak af öllu verkefninu. Git sér um að hindra árekstra og eyðingu gagna sem eru í vinnslu. Mikið öryggi fellst í dreifingu verksins vegna þess að ekki er hægt að eyða öllum útgáfunum í einu eða öll vinnsla stöðvist vegna þess að miðlari _(server)_ fer á hliðina vegna álags eða kerfishruns.
 
-#### Verklag:
-* Eftir að hafa myndað hóp þá stofnar **einn** úr hópnum, geymslu (_repository_) **á GitHub**
-	* Síðan deilir hann aðgangi að geymslunni, með því að bæta við notendum (_Settings - Collaborators_) með sömu réttindum og hann sjálfur hefur í geymslunni. 
-	* Notendur _contributors_ fá sendan póst á tölvupóstfangið sem tengt er þeirra Github reikningi. Þeir samþykkja boðið og geta eftir það breytt og bætt efni í umræddri geymslu. 
-	* [sjá nánar í lesefni/Samstarf](Lesefni/Samstarf%20á%20GitHub.pdf)
-* Sameiginlegri geymslu deilt á notendur
-	* Í _"Git Bash"_ er geymslan spegluð _**„Git clone“**_ yfir á tölvur hópsins þannig að allir eru með eigin útgáfu af henni. 
-* Hópurinn skipuleggur alla verkþætti og verkskiptingu
-	* Geymslan á GitHub er miðstöð verksin og á alltaf að vera endurnýjuð reglulega
-	* Allir byrja að að tjékka á GitHub útgáfunni ```Git pull```
-	* Og enda vinnudaginn á ```Git push```
-	* Öll vinnugögn hópverkefnisins eiga að vera í þessari geymslu á Github
+### Afritun _„Fork“_ og speglun _„Git clone“_  :couple:
+Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) er gogguð „Fork“ þá færðu _nýtt eintak_ af geymslunni sem tilheyrir þínum reikningi. Þú getur gert hvað sem er við innihald geymslunnar og það hefur engin áhrif á upprunalega geymslu. Hinsvegar ef þú villt láta höfund geymslunnar vita hvað þú ert að bralla, þá getur þú sent honum skilaboð í gegnum skilaboðakerfið **„Pull request“**. Þar getur höfundurinn borið saman kóðann sem þú ert með við upprunalegan kóða og ef þín lausn er betri þá er hægt að setja hana saman við upprunalegan kóða með skipuninni **„Merge request“**.
 
-### Verkefnalýsing 
-Skrifið ritgerð um athyglisverðan tölvuleik eða tölvubúnað sem þið hafið áhuga á. 
-Ritgerðin má vera á forsíðu geymslunnar (*README.md*)
-*	**Í ritgerðinni ættu eftirtalin atriði að koma fram:**
-	1.	Hvaða tegund af tölvuleik/búnaði er um að ræða
-	2.	Hvenær var hann búinn til 
-	3.	Hverjir eru höfundar og framleiðendur
-	4.	Hverjir eru notendur leiksins/búnaðarins (aldur – kyn - áhugamál)
-	5.	Hvernig hefur leikurinn/búnaðurinn þróast
-	6.	Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn.
-		<br>Hverjar eru framtíðarhorfur búnaðarins eða hvenær var hætt að framleiða hann.
-	7.	Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
-	8.	Setjið myndefni í skjalið til að styðja framsetninguna.
-		<br>Kóði: ```img[myndatexti](mappa/mynd.jpg)``` Athugið að hafa myndina í réttri stærð.
+Þegar nemendur vinna saman í hópverkefni þá er skynsamlegt að spegla **„Git clone“** geymsluna yfir á tölvur þátttakenda þannig að allir hafa sitt eintak af verkefninu. Sá sem stofnar geymsluna gefur félögum sínum [aðgang að geymslunni](Lesefni/Samstarf á GitHub.pdf). Git sér síðan um samræmingu gagna þannig að ekkert ósamræmi er í gögnum og ekki er hægt að yfirrita gömul skjöl yfir ný. Til að nemendur geti unnið saman í einni geymslu þá verður stofnandi geymslunnar að veita aðgang að henni [sjá nánar hér.](https://github.com/vefhonnun/Git-aefingaverkefni/blob/master/Lesefni/Samstarf%20%C3%A1%20GitHub.pdf) Síðan geta allir uppfært og sent efni í sömu geymslu á GitHub. 
 
-#### GitHub [Wiki](https://github.com/vefhonnun/Git/wiki/)
-*	Búið til verkefnaáætlun í Wiki skránni sem fylgir geymslunni
-	* Skiptið ritgerðarefninu á milli ykkar
-	* Gerið tímaáætlun til að klára verkefnið á réttum tíma.
-* 	Dagbók 
-	*	Hvernig gengur verkáætlunin eftir
-	*	Niðurstaða samvinnu. 
-* 	Heimildaskrá
+:octocat: :octocat: :octocat: :octocat:
 
-#### Ágreiningur (Conflict)
-*	[Ágreiningur](Ágreiningur.md)
+Í allri hópverkavinnu á tölvubraut **á að nota GIT útgáfustjórnun** og vakta verkefnin á meðan unnið er í þeim. Þegar unnið er í hópverkefnum á að byrja á því að bera saman og ná í síðustu útgáfu verksins á GitHub ```$ git pull. ``` síðan á að skrá vinnuferlið reglulega  í umsjónarkerfið og alltaf uppfæra verkefnið á GitHub í lok vinnudags ```$ git push. ``` .
+
+### Æfingaverkefni :running: :running:
+* [Samvinna með Git](Samvinna.md)
+
+#### Ýtarefni
+* [Bjargir](Bjargir.md)
 
 #### Yfirlit
 * [Kynning](README.md)
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
-* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+* GIT Samvinna
 * [Bjargir](Bjargir.md)
