@@ -16,6 +16,9 @@ Git umsjónarkerfið er opin hugbúnaður sem hægt er að sækja hér https://g
 3. lætur Git vakta vinnuferlið 
 
 Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir á [*return*] takkann þá framkvæmir Git skipunina. 
+* Til að geta sent gögn yfir á GitHub frá tölvunni þinni þarftu að skrá eftrifarandi skipanir í Git Bash
+ 	* ```git config --global user.name "nafnReiknings" ```
+ 	* ```git config --global user.email "þinn@Tolvupos.tur" ```
 
 * Hvar á geymslan að vera á tölvunni? 
 	* ```cd``` er CLI skipun og stendur fyrir *"Change Directory"*
@@ -38,7 +41,7 @@ Hvað gera svo þessar skipanir
 4. **git commit -m "útskýring"** Til að geta skoðað stöðuna síðar verður útskýring að fylgja sviðsetningunni.
 5. **git remote add origin** Hér er "Geymsla.git" vísað á GitHub reikning þinn
 6. Í fyrsta sinn sem geymslunni er ýtt úr höfn þá verður **-u origin master** að fylgja með. 
-
+ 
 Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er næsta skref að vísa *Git Bash* á geymsluna til að vakta verkefnið, dæmi:  ```cd Desktop/geymsla/``` . Síðan er hægt að vinna í verkefninu og senda gögn á milli vinnusvæðis og GitHub með því að nota  ```git push``` til að senda gögn og ```git pull```  til að sækja gögn. Sjá nánar á [Git umsjón](Umsjón.md).
 
 #### Geymsla búin til á GitHub og spegluð (*clone*) á (*local*) vinnusvæði :two_men_holding_hands:
