@@ -1,14 +1,17 @@
 # Greinar í Git (_Branches_) :deciduous_tree:
 
-Nú höldum við áfram með skjalið sem þú bjóst til (Git_svör.md), Skoðaðu allar færslurnar í skjalinu ```git log``` í Git Bash og afritaðu (*copy*) talnarununa sem fylgir **5. svarinu** (Fyrstu 7 tölurnar)
-1. Skráðu síðan ```git checkout 1234567``` (*paste* tölurnar 7)
-2. Búðu til nýja grein ```git branch [heiti greinar]``` 
-3. Farðu yfir á greinina ```git checkout [heiti greinar]```
+Nú höldum við áfram með skjalið sem þú bjóst til (Git_svör.md)
+1. Skoðaðu allar færslurnar í skjalinu ```git log``` í Git Bash 
+2. Afritaðu (*copy*) talnarununa sem fylgir **5. svarinu** (Fyrstu 7 tölurnar)
+3. Skráðu síðan ```git checkout 1234567``` (*paste* tölurnar 7)
+4. Búðu til nýja grein ```git branch [heiti greinar]``` 
+5. Farðu yfir á greinina ```git checkout [heiti greinar]```
 	* Bættu við eftirfarandi texta aftan við 5. svarið
-	<pre>Lorem ipsum .... </pre>
-4. Sendu nýju greinina yfir á GitHub
+	<pre>Á nýju greininn minni get ég sagt mína skoðun á Git Umsjónarkerfinu... :wink: </pre>
+6. Sendu nýju greinina yfir á GitHub
+7. Farðu aftur á *master*
 
-### Æfingaverkefni :running: :running:
+#### Æfingaverkefni :running: :running:
 * [Git vinnuferlið](Vinnuferli.md)
 * Git greinar
 
