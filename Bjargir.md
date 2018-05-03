@@ -27,7 +27,6 @@ Lesefni: https://git-scm.com/book/en/v2
 * http://en.wikipedia.org/wiki/Markdown
 
 :octocat: https://www.webpagefx.com/tools/emoji-cheat-sheet/
-_ps:  Git er innbyggt í  PyCharm, Atom og fleiri forritum_
 
 #### Yfirlit
 * [Git útgáfustjórnun](README.md)
