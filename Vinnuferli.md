@@ -41,5 +41,5 @@
 * [Kynning](README.md)
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
-* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+* [GIT samvinna](Samvinna.md)
 * [Bjargir](Bjargir.md)
