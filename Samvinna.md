@@ -15,12 +15,29 @@
 	* Og enda vinnudaginn á ```Git push```
 	* Öll vinnugögn hópverkefnisins eiga að vera í þessari geymslu á Github
 
-#### Verkefnalýsing 
+### Verkefnalýsing 
+Skrifið ritgerð um athyglisverðan tölvuleik eða tölvubúnað sem þið hafið áhuga á. 
+Ritgerðin má vera á forsíðu geymslunnar (*README.md*)
+*	**Í ritgerðinni ættu eftirtalin atriði að koma fram:**
+	1.	Hvaða tegund af tölvuleik/búnað er um að ræða
+	2.	Hvenær var hann búinn til 
+	3.	Hverjir eru höfundar og framleiðendur
+	4.	Hverjir eru notendur leiksins/búnaðarins (aldur – kyn - áhugamál)
+	5.	Hvernig hefur leikurinn/búnaðurinn þróast
+	6.	Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn.
+		<br>Hverjar eru framtíðarhorfur búnaðarins eða hvenær var hætt að framleiða hann.
+	7.	Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
+	8.	Setjið myndefni í skjalið til að styðja framsetninguna.
+		<br>Kóði: ```img[myndatexti](mappa/mynd.jpg)``` Athugið að hafa myndina í réttri stærð.
 
-
-#### Vefsíða tengd Github geymslunni
-*	Farið eftir leiðbeiningum hér í ["Vefsíða tengd GitHub geymlsu.pdf"](Lesefni/Vefsíða%20tengd%20GitHub%20geymslu.pdf) og tengið vefsíðuna í docs möppunni við GitHub geymsluna.
-* 	Setjið tengil í README.md skrána sem vísar á vefinn, dæmi:	https://vefhonnun.github.io/Git/
+#### GitHub Wiki [Wiki](https://github.com/vefhonnun/Git/wiki/)
+*	Búið til verkefnaáætlun í Wiki skránni sem fylgir geymslunni
+	* Skiptið ritgerðarefninu á milli ykkar
+	* Gerið tímaáætlun til að klára verkefnið á réttum tíma.
+* 	Dagbók 
+	*	Hvernig gengur verkáætlunin eftir
+	*	Niðurstaða samvinnu. 
+* 	Heimildaskrá
 
 #### Ágreiningur (Conflict)
 *	[Ágreiningur](Ágreiningur.md)
