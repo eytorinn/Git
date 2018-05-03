@@ -1,10 +1,5 @@
 # Greinar í Git (_Branches_) :deciduous_tree:
 
-Nú höldum við áfram með skjalið sem þú bjóst til (Git_svör.md), Skoðaðu allar færslurnar í skjalinu ```git log``` í Git Bash og afritaðu (*copy*) talnarununa sem fylgir 5. svarinu (Fyrstu 7 tölurnar)
-* Skráðu síðan ```git checkout 1234567``` (*paste* tölurnar 7)
-* Búðu til að búa til grein er skipunin ```git branch [heiti greinar]``` notuð. 
-* Til að fara yfir á grein er skipunin ```git checkout [heiti greinar]``` notuð.
-
 Git býður upp á möguleika að vera með margar útgáfur af sama kóða. Dæmi: þú vilt búa til nýja útgáfu af kóða sem þú ert að vinna í en byrja þar sem þú varst staddur 2 dögum fyrr. 
 * ```git log``` Git birtir lista með öllum færslum (*commits*). Veldu fyrstu 7 tölurnar úr þeirri talnarunu sem passar við færsluna sem þú vilt komast á.
 *	ýttu á takkann "q" til að komast úr listanum
@@ -21,8 +16,16 @@ Til að eyða grein þá þarftu að vera á "master"
 * ```git -d grein1``` greininni er eytt, það hefur ekki áhrif á stöðu "master" eða annara greina.
 
 ### Æfingaverkefni :running: :running:
+Nú höldum við áfram með skjalið sem þú bjóst til (Git_svör.md), Skoðaðu allar færslurnar í skjalinu ```git log``` í Git Bash og afritaðu (*copy*) talnarununa sem fylgir **5. svarinu** (Fyrstu 7 tölurnar)
+1. Skráðu síðan ```git checkout 1234567``` (*paste* tölurnar 7)
+2. Búðu til nýja grein ```git branch [heiti greinar]``` 
+3. Farðu yfir á greinina ```git checkout [heiti greinar]```
+	* Bættu við eftirfarandi texta aftan við 5. svarið
+	<pre>Lorem ipsum .... </pre>
+4. Sendu nýju greinina yfir á GitHub
+
 * [Git vinnuferlið](Vinnuferli.md)
-* Git greinar
+* [Git greinar]()
 
 Bjargir:
 * https://try.github.io/levels/1/challenges/1
