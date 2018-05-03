@@ -31,13 +31,6 @@ Til að eyða grein þá þarftu að vera á "master"
 * [Git vinnuferlið](Vinnuferli.md)
 * [Git greinar](Greinar.md)
 
-Bjargir:
-* https://try.github.io/levels/1/challenges/1
-* http://guides.beanstalkapp.com/version-control/common-git-commands.html
-* https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-* https://git-scm.com/docs
-* [Listi yfir helstu skipanir í Git](Lesefni/github-git-cheat-sheet.pdf)
-
 #### Yfirlit
 * [Kynning](README.md)
 * [Unnið með GIT](Git.md)
