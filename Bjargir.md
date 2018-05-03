@@ -1,4 +1,4 @@
-# Bjargir
+# Bjargir :thumpsup:
 
 #### Uppsetning
 Lesefni: https://git-scm.com/book/en/v2 
@@ -19,14 +19,15 @@ Lesefni: https://git-scm.com/book/en/v2
 * https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell 
 * https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
-
 #### Hvað er Markdown?
 * https://help.github.com/articles/markdown-basics/
 * http://en.wikipedia.org/wiki/Markdown
 
 _ps:  Git er innbyggt í  PyCharm, Atom og fleiri forritum_
 
-*	[Kynning](README.md)
-*	[Hópverkefnavinna](Hópverkefnavinna.md)
-*	[Lesefni til stuðnings verkefninu](Lesefni/)
-*	[Bjargir](Bjargir.md)
+#### Yfirlit
+* [Git útgáfustjórnun](README.md)
+* [Unnið með GIT](Git.md)
+* [Git umsjón og samþáttun](Umsjón.md)
+* [GIT samvinna](Samvinna.md)
+* [Bjargir](Bjargir.md)
