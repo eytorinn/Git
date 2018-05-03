@@ -1,4 +1,4 @@
-# Bjargir :thumpsup:
+# Bjargir :+1:
 
 #### Uppsetning
 Lesefni: https://git-scm.com/book/en/v2 
