@@ -19,7 +19,7 @@
 Skrifið ritgerð um athyglisverðan tölvuleik eða tölvubúnað sem þið hafið áhuga á. 
 Ritgerðin má vera á forsíðu geymslunnar (*README.md*)
 *	**Í ritgerðinni ættu eftirtalin atriði að koma fram:**
-	1.	Hvaða tegund af tölvuleik/búnað er um að ræða
+	1.	Hvaða tegund af tölvuleik/búnaði er um að ræða
 	2.	Hvenær var hann búinn til 
 	3.	Hverjir eru höfundar og framleiðendur
 	4.	Hverjir eru notendur leiksins/búnaðarins (aldur – kyn - áhugamál)
@@ -30,7 +30,7 @@ Ritgerðin má vera á forsíðu geymslunnar (*README.md*)
 	8.	Setjið myndefni í skjalið til að styðja framsetninguna.
 		<br>Kóði: ```img[myndatexti](mappa/mynd.jpg)``` Athugið að hafa myndina í réttri stærð.
 
-#### GitHub Wiki [Wiki](https://github.com/vefhonnun/Git/wiki/)
+#### GitHub [Wiki](https://github.com/vefhonnun/Git/wiki/)
 *	Búið til verkefnaáætlun í Wiki skránni sem fylgir geymslunni
 	* Skiptið ritgerðarefninu á milli ykkar
 	* Gerið tímaáætlun til að klára verkefnið á réttum tíma.
