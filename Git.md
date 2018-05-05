@@ -23,8 +23,7 @@ Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir
 * Hvar á geymslan að vera á tölvunni? 
 	* ```cd``` er CLI skipun og stendur fyrir *"Change Directory"*
 * Dæmi: 
-	* ```cd Desktop/``` Þá verður geymsla búin til á skrifborði tölvunnar. <a href=#CLI>
-	 Sjá fleiri CLI skipanir</a>
+	* ```cd Desktop/``` Þá verður geymsla búin til á skrifborði tölvunnar. [Sjá fleiri CLI skipanir](https://github.com/vefhonnun/Git/blob/master/Git.md#linux-cli-ums%C3%BDsluskipanir)
 
 ```
 $ echo "# Geymsla" >> README.md
