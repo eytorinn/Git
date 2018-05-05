@@ -23,7 +23,7 @@ Skráðu inn eftirfarandi skipanir (*Commands*) í *Git Bash*, þegar þú ýtir
 * Hvar á geymslan að vera á tölvunni? 
 	* ```cd``` er CLI skipun og stendur fyrir *"Change Directory"*
 * Dæmi: 
-	* ```cd Desktop/``` Þá verður geymsla búin til á skrifborði tölvunnar. [Sjá nánar hér neðar](#CLI)
+	* ```cd Desktop/``` Þá verður geymsla búin til á skrifborði tölvunnar. [Sjá fleiri skipanir](Linux CLI umsýsluskipanir)
 
 ```
 $ echo "# Geymsla" >> README.md
@@ -54,7 +54,7 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 	* [Speglun lýst myndrænt hér](Lesefni/UppsetningGithubGeymslu.pdf)
 	* Þar er einnig sýnt hvernig hægt er að senda og sækja gögn (*push/pull*) 
 
-#### Linux CLI umsýsluskipanir <id="CLI">
+#### Linux CLI umsýsluskipanir 
 * ```pwd``` *print working directory* Sýnir staðsetningu Git Bash
 * ```ls```  *list items* Sýnir öll gögn í viðkomandi möppu
 * ```cd```  *change directory* Skipt um staðsetningu
