@@ -63,6 +63,7 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 * ```../``` Farið upp úr möppu
 * ``` ../../``` Farið upp úr 2 möppum
 * ```..```  Farið uppúr öllum möppum [User]
+* [Yfirlit Unix/Linux skipanir](Lesefni/unixref.pdf)
 
 #### Yfirlit
 * [Kynning](README.md)
