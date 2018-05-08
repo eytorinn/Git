@@ -31,8 +31,10 @@ Hægt er að skipta um ritþór og nota _Sublime_ ritþórinn í staðinn fyrir 
 *	[Samvinna með GIT](Samvinna.md)
 
 #### Yfirlit
-* [Kynning](README.md)
+* Git útgáfustjórnun
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
-* [GIT hópverkefnavinna](Hópverkefnavinna.md)
+	* Verkefni: [Unnið með Git](Vinnuferli.md) og [Greinar](Greinar.md)
+* [GIT samvinna](Samvinna.md)
+	* Verkefni: [Hópverkefni](Hópverkefnavinna.md)
 * [Bjargir](Bjargir.md)

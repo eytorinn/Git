@@ -67,8 +67,10 @@ Eftir að geymsla hefur verið stofnuð og afriti komið fyrir á GitHub þá er
 * [Yfirlit Unix/Linux skipanir](Lesefni/unixref.pdf)
 
 #### Yfirlit
-* [Kynning](README.md)
-* Unnið með GIT
+* Git útgáfustjórnun
+* [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
-* [Samvinna með GIT](Samvinna.md)
+	* Verkefni: [Unnið með Git](Vinnuferli.md) og [Greinar](Greinar.md)
+* [GIT samvinna](Samvinna.md)
+	* Verkefni: [Hópverkefni](Hópverkefnavinna.md)
 * [Bjargir](Bjargir.md)
