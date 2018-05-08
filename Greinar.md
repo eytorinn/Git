@@ -19,7 +19,7 @@ Nú höldum við áfram með skjalið sem þú bjóst til (Git_svör.md)
 * Git greinar
 
 #### Yfirlit
-* Git útgáfustjórnun
+* [Git útgáfustjórnun](README.md)
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
 	* Verkefni: [Unnið með Git](Vinnuferli.md) og [Greinar](Greinar.md)
