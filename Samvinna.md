@@ -15,7 +15,7 @@ Töluverður munur er á ofantöldum aðgerðum. Þegar geymsla (_repository_) e
 * [Hópverkefnavinna](Hópverkefnavinna.md)
 
 #### Yfirlit
-* Git útgáfustjórnun
+* [Git útgáfustjórnun](README.md)
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
 	* Verkefni: [Unnið með Git](Vinnuferli.md) og [Greinar](Greinar.md)
