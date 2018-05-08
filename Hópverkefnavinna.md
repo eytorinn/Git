@@ -41,7 +41,7 @@ Ritgerðin má vera á forsíðu geymslunnar (*README.md*)
 *	[Ágreiningur](Ágreiningur.md)
 
 #### Yfirlit
-* Git útgáfustjórnun
+* [Git útgáfustjórnun](README.md)
 * [Unnið með GIT](Git.md)
 * [Git umsjón og samþáttun](Umsjón.md)
 	* Verkefni: [Unnið með Git](Vinnuferli.md) og [Greinar](Greinar.md)
