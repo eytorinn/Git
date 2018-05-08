@@ -32,8 +32,10 @@ Til að eyða grein þá þarftu að vera á "master"
 * [Git greinar](Greinar.md)
 
 #### Yfirlit
-* [Kynning](README.md)
+* [Git útgáfustjórnun](README.md)
 * [Unnið með GIT](Git.md)
-* Git umsjón og samþáttun
+* [Git umsjón og samþáttun](Umsjón.md)
+	* Verkefni: [Unnið með Git](Vinnuferli.md) og [Greinar](Greinar.md)
 * [GIT samvinna](Samvinna.md)
+	* Verkefni: [Hópverkefni](Hópverkefnavinna.md)
 * [Bjargir](Bjargir.md)
