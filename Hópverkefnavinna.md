@@ -12,7 +12,7 @@
 	* Allir byrja að að tjékka á GitHub útgáfunni ```Git pull```
 	* Og enda vinnudaginn á ```Git push```
 	* Öll vinnugögn hópverkefnisins eiga að vera í þessari geymslu á Github
-
+<!-- Ath. samvinna verður hluti af lokaverkefni
 ### Verkefnalýsing 
 Skrifið ritgerð um athyglisverðan tölvuleik eða tölvubúnað sem þið hafið áhuga á. 
 Ritgerðin má vera á forsíðu geymslunnar (*README.md*)
@@ -36,7 +36,7 @@ Ritgerðin má vera á forsíðu geymslunnar (*README.md*)
 	*	Hvernig gengur verkáætlunin eftir
 	*	Niðurstaða samvinnu. 
 * 	Heimildaskrá
-
+-->
 #### Ágreiningur (Conflict)
 *	[Ágreiningur](Ágreiningur.md)
 
